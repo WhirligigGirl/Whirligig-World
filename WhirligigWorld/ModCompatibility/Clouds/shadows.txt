@@ -1,0 +1,273 @@
+EVE_SHADOWS
+{
+	
+	//TyepolbynarSystem
+	OBJECT
+	{
+		body = Tyepolbynar
+		caster = Jifgif
+		caster = Imterril
+		caster = Etrograd
+		caster = Tannor
+		caster = Aerious
+	}
+	OBJECT
+	{
+		body = Jifgif
+		caster = Tyepolbynar
+		caster = Imterril
+		caster = Etrograd
+		caster = Tannor
+		caster = Aerious
+	}
+	OBJECT
+	{
+		body = Imterril
+		caster = Jifgif
+		caster = Tyepolbynar
+		caster = Etrograd
+		caster = Tannor
+		caster = Aerious
+	}
+	OBJECT
+	{
+		body = Etrograd
+		caster = Jifgif
+		caster = Imterril
+		caster = Tyepolbynar
+		caster = Tannor
+		caster = Aerious
+	}
+	OBJECT
+	{
+		body = Tannor
+		caster = Jifgif
+		caster = Imterril
+		caster = Etrograd
+		caster = Tyepolbynar
+		caster = Aerious
+	}
+	OBJECT
+	{
+		body = Aerious
+		caster = Jifgif
+		caster = Imterril
+		caster = Etrograd
+		caster = Tannor
+		caster = Tyepolbynar
+	}
+	
+	//MesbinSystem
+	OBJECT
+	{
+		body = Kerbin
+		caster = Mesbin
+		caster = Statmun
+		caster = Thresomin
+		caster = Graymun
+		caster = Troymin
+		caster = Kerbmun
+		caster = Derbin
+		caster = Derminmus
+	}
+	OBJECT
+	{
+		body = Mesbin
+		caster = Kerbin
+		caster = Statmun
+		caster = Thresomin
+		caster = Graymun
+		caster = Troymin
+		caster = Kerbmun
+		caster = Derbin
+		caster = Derminmus
+	}
+	OBJECT
+	{
+		body = Statmun
+		caster = Mesbin
+		caster = Kerbin
+		caster = Graymun
+		caster = Derbin
+		caster = Kerbmun
+	}
+	OBJECT
+	{
+		body = Thresomin
+		caster = Mesbin
+		caster = Kerbin
+		caster = Graymun
+		caster = Derbin
+		caster = Kerbmun
+	}
+	OBJECT
+	{
+		body = Graymun
+		caster = Mesbin
+		caster = Kerbin
+		caster = Statmun
+		caster = Thresomin
+		caster = Troymin
+		caster = Kerbmun
+		caster = Derbin
+		caster = Derminmus
+	}
+	OBJECT
+	{
+		body = Kerbmun
+		caster = Kerbin
+		caster = Mesbin
+		caster = Graymun
+		caster = Derbin
+	}
+	OBJECT
+	{
+		body = Troymin
+		caster = Mesbin
+		caster = Kerbin
+		caster = Graymun
+		caster = Derbin
+		caster = Kerbmun
+	}
+	OBJECT
+	{
+		body = Derbin
+		caster = Mesbin
+		caster = Kerbin
+		caster = Derminmus
+	}
+	OBJECT
+	{
+		body = Derminmus
+		caster = Mesbin
+		caster = Kerbin
+		caster = Derbin
+	}
+	
+	//ValyrSystem
+	OBJECT
+	{
+		body = Valyr
+		caster = Plaph
+		caster = Oshan
+		caster = Manonam
+	}
+	OBJECT
+	{
+		body = Plaph
+		caster = Oshan
+		caster = Valyr
+		caster = Manonam
+	}
+	OBJECT
+	{
+		body = Oshan
+		caster = Manonam
+		caster = Valyr
+	}
+	OBJECT
+	{
+		body = Manonam
+		caster = Oshan
+		caster = Didd
+		caster = Valyr
+	}
+	OBJECT
+	{
+		body = Didd
+		caster = Oshan
+		caster = Manonam
+		caster = Valyr
+	}
+	
+	//EgadYeerbor
+	OBJECT
+	{
+		body = Egad
+		caster = Yeerbor
+	}
+	OBJECT
+	{
+		body = Yeerbor
+		caster = Egad
+	}
+	
+	//ReanderSystem
+	OBJECT
+	{
+		body = Reander
+		caster = Lito
+		caster = Yalthe
+		caster = Yokane
+		caster = Dakkonme
+		caster = Totooa
+		caster = Mally
+		caster = Yawer
+	}
+	OBJECT
+	{
+		body = Lito
+		caster = Reander
+		caster = Yalthe
+		caster = Yokane
+		caster = Dakkonme
+		caster = Totooa
+		caster = Mally
+		caster = Yawer
+	}
+	OBJECT
+	{
+		body = Yalthe
+		caster = Lito
+		caster = Reander
+		caster = Yokane
+		caster = Dakkonme
+		caster = Totooa
+		caster = Mally
+		caster = Yawer
+	}
+	OBJECT
+	{
+		body = Yokane
+		caster = Lito
+		caster = Yalthe
+		caster = Reander
+		caster = Dakkonme
+		caster = Totooa
+		caster = Mally
+		caster = Yawer
+	}
+	OBJECT
+	{
+		body = Dakkonme
+		caster = Lito
+		caster = Yalthe
+		caster = Yokane
+		caster = Reander
+		caster = Totooa
+		caster = Mally
+		caster = Yawer
+	}
+	OBJECT
+	{
+		body = Mally
+		caster = Lito
+		caster = Yalthe
+		caster = Yokane
+		caster = Dakkonme
+		caster = Totooa
+		caster = Reander
+		caster = Yawer
+	}
+	OBJECT
+	{
+		body = Yawer
+		caster = Lito
+		caster = Yalthe
+		caster = Yokane
+		caster = Dakkonme
+		caster = Totooa
+		caster = Mally
+		caster = Reander
+	}
+}

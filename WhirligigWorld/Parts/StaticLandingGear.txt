@@ -1,0 +1,101 @@
++PART[miniLandingLeg]
+{
+	@name = StaticMiniLandingLeg
+	
+	@title = ST-05 Static Micro Landing Strut
+	@description = A variant of the LT-05 Micro Landing Strut with all the suspension gear torn out.
+	deploySpeed = 1
+	retractSpeed = -1
+	randomSpeedFactor = 0.02
+	
+	!MODULE[ModuleWheelBase]{}
+	!MODULE[ModuleWheelSuspension]{}
+	!MODULE[ModuleWheelDeployment]{}
+	!MODULE[ModuleWheelLock]{}
+	!MODULE[ModuleWheelDamage]{}
+	
+	MODULE
+	{
+		name = ModuleLandingLeg
+
+		animationName = probeleg
+		wheelColliderName = wheelCollider
+		suspensionTransformName = leg
+		suspensionUpperLimit = 0.65
+		impactTolerance = 150
+		suspensionSpring = 1
+		suspensionDamper = 1
+	}
+}
+
++PART[landingLeg1]
+{
+	@name = StaticLandingLeg1
+	@title = ST-1 Static Landing Strut
+	@description = A variant of the LT-1 Landing Strut with all the suspension gear torn out.
+	
+	deploySpeed = 1
+	retractSpeed = -1
+	randomSpeedFactor = 0.02
+	
+	!MODULE[ModuleWheelBase]{}
+	!MODULE[ModuleWheelSuspension]{}
+	!MODULE[ModuleWheelDeployment]{}
+	!MODULE[ModuleWheelLock]{}
+	!MODULE[ModuleWheelBogey]()
+	!MODULE[ModuleWheelDamage]{}
+	
+	MODULE
+	{
+		
+		name = ModuleLandingLeg
+
+		animationName = Deploy
+		wheelColliderName = wheelCollider
+		suspensionTransformName = Piston
+		orientFootToGround = true
+		landingFootName = foot
+		// Foot is aligned to up Axis instead of forward
+		alignFootUp = true
+		suspensionUpperLimit = 0.60
+		impactTolerance = 300
+		suspensionSpring = 1
+		suspensionDamper = 1
+	}
+}
+
++PART[landingLeg1-2]
+{
+	@name = StaticLandingLeg2
+	@title = ST-2 Static Landing Strut
+	@description = A variant of the LT-2 Landing Strut with all the suspension gear torn out.
+	
+	deploySpeed = 0.75
+	retractSpeed = -0.75
+	randomSpeedFactor = 0.05
+	
+	!MODULE[ModuleWheelBase]{}
+	!MODULE[ModuleWheelSuspension]{}
+	!MODULE[ModuleWheelDeployment]{}
+	!MODULE[ModuleWheelLock]{}
+	!MODULE[ModuleWheelBogey]()
+	!MODULE[ModuleWheelDamage]{}
+	
+	MODULE
+	{
+		
+		name = ModuleLandingLeg
+
+		animationName = newlandingleg
+		wheelColliderName = wheelCollider
+		suspensionTransformName = piston
+		orientFootToGround = true
+		landingFootName = foot
+		// Axis is aligned forward instead of up
+		alignFootUp = false
+		suspensionUpperLimit = 0.47
+		impactTolerance = 450
+		suspensionSpring = 1
+		suspensionDamper = 1
+	}
+}

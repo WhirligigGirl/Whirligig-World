@@ -1,0 +1,21 @@
+@PART:HAS[!WhirligigWorldSettings]:FOR[aWhirligigWorld]
+{
+	#@WhirligigWorldSettings {}
+}
+@PART:HAS[@MODULE[ModuleWheelSuspension]]:HAS[@WhirligigWorldSettings:HAS[#Homeworld[Mesbin]]]:FOR[aWhirligigWorld]
+{
+	@MODULE[ModuleWheelSuspension]
+	{
+		@springRatio /= 13.2364
+		@maximumLoad *= 13.2364
+		@damperRatio /= 13.2364
+	}
+}
+@PART:HAS[@MODULE[ModuleWheelDamage]]:HAS[@WhirligigWorldSettings:HAS[#Homeworld[Mesbin]]]:FOR[aWhirligigWorld]
+{
+	@MODULE[ModuleWheelDamage]
+	{
+		@stressTolerance *= 13.2364
+		@impactTolerance *= 13.2364
+	}
+}
