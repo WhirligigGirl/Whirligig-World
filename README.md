@@ -272,6 +272,7 @@ Poodmund's Deep Star Map Skybox. A fantastic realistic skybox that I consider to
 
 (Kronometer). I have invented my own basic calendar/clock for WhirligigWorld, since days and years don't exactly have the same meaning anymore.
 * GitHub Repository: https://github.com/StollD/Kronometer/releases/tag/v1.3.1-2
+* Explanation link: https://github.com/GregroxMun/aWhirligigWorld/wiki/Kronometer-Support-and-The-Mesbin-General-Calendar
 
 (Community Tech Tree). Tech tree modifications are safely applied to the CTT.
 * Forum Thread: https://forum.kerbalspaceprogram.com/index.php?/topic/90530-15x-community-tech-tree-oct-16/
