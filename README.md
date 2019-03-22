@@ -10,7 +10,9 @@ Credits:
 * Thomas P., MrHappyFace (Kopernicus Expansion Continued)
 * NovaSilisko (Feedback, playtesting, the model for the Kaputnik Mk0 Electromechanical Program Executor)
 * SnailsAttack (Feedback, playtesting)
+* Tutur (Feedback, playtesting)
 * Niako (Biome map for Lowel)
+* SnowfallTheCat (Derbin cloud map)
 
 ------------------------------------------------------------------
 -----------IMPORTANT KNOWN ISSUE, READ FOR FIX--------------------
@@ -35,7 +37,7 @@ Whirligig World art assets and config files: Copyright Gregory Brannon (GregroxM
 
 Kopernicus Expansion Continued: GNU General Public License.
 
-Derbin cloud map: Copyright Snowfall-The-Cat 2018. "Use this however you like, just give me a credit if possible for assembling."
+Derbin cloud map: Copyright Snowfall-The-Cat 2018. "Use this however you like, just give me a credit if possible for assembling." https://www.deviantart.com/snowfall-the-cat/art/Venus-Clouds-733625463
 
 Whirligig World heightmap files Ellipsoid.png, Prolate_Height.png, and deprecated Triaxial_Ellipsoid.png: Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)﻿﻿ Explanation for separate licensing found at the end of this readme file.
 
