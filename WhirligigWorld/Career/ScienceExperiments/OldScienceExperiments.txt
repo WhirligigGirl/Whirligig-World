@@ -102,7 +102,6 @@
 		SholFlyingHigh = The scalding sun met with the scalding air does not bode well for you. You just hope you don't sink any lower.
 		SholFlyingLow = As you take your last breath in the world of the living, you consider the events which have lead to you finding yourself in this most precarious of situations.
 		
-		FasteroidInSpace = It's hard to grasp just how fast you're moving.
 		
 		WoldaInSpace = It's just kind of... a long rock.
 		
@@ -870,6 +869,9 @@
 }
 @EXPERIMENT_DEFINITION:HAS[#id[asteroidSample]]:HAS[@WhirligigWorldSettings:HAS[#Homeworld[Mesbin]]]:FOR[aWhirligigWorld]
 {
+	//too much science from asteroid samples, let's not do that.
+	@baseValue = 5
+	@scienceCap = 5
 	RESULTS
 	{
 		default = You collect a sample of the asteroid.
