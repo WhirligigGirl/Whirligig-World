@@ -243,7 +243,7 @@ REQUIRED MODS (The game will not work without these)
 The latest version of Kopernicus.
 Make sure you install the plugin's own prerequisites, which come bundled along: ModularFlightIntegrator and ModuleManager.
 
-Forum Thread: https://forum.kerbalspaceprogram.com/index.php?/topic/140580-151-1-backports-kopernicus-kittopiatech/
+Forum Thread: https://forum.kerbalspaceprogram.com/index.php?/topic/181547-170-1-backports-kopernicus-kittopiatech/
 
 Kopernicus Expansions Continued (bundled with Whirligig World download)
 * KEX: RegionalPQSMods
