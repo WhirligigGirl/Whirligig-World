@@ -4,15 +4,28 @@ WhirligigWorld Planetary System: Absurd Homeworld in an Alien Solar System
 
 WhirligigWorld is a mod which moves the Kerbal Space Center to the equator of Mesbin, a rapidly spinning supermassive airless planet. The solar system is also completely rebuilt, turning it into the Kaywell/Gememma binary star system.
 
-Credits:
+**Credits:**
 
-* GregroxMun (Lead developer)
+Lead Developer:
+* GregroxMun (Art, design, and configuration)
+
+Mod Help:
+* Thomas P. and the Kopernicus Team
 * Thomas P., MrHappyFace (Kopernicus Expansion Continued)
 * NovaSilisko (Feedback, playtesting, the model for the Kaputnik Mk0 Electromechanical Program Executor)
-* SnailsAttack (Feedback, playtesting)
+* SnailsAttack (Feedback, playtesting, Totooa Biome Map)
 * Tutur (Feedback, playtesting)
 * Niako (Biome map for Lowel)
-* SnowfallTheCat (Derbin cloud map)
+* KillAshley and Sigma88, who taught me how to make mods way back in 2015.
+
+External Resources:
+* SnowfallTheCat (Venus cloud map, used on Derbin)
+* Carl Davidson (Tectonics.js web app, used for some heightmaps)
+
+Inspiration:
+* Hal Clement (Author of the novel *Mission of Gravity* and the essay *Whirligig World*, both classic works of hard-sci-fi worldbuilding.)
+* Chris Wayan (Creator of Lyr and Oisin, the basis for Valyr and Oshan, and very creative planetary worldbuilder.)
+* My Momma (Who named Kaywell.)
 
 ------------------------------------------------------------------
 -----------IMPORTANT KNOWN ISSUE, READ FOR FIX--------------------
@@ -37,9 +50,7 @@ Whirligig World art assets and config files: Copyright Gregory Brannon (GregroxM
 
 Kopernicus Expansion Continued: GNU General Public License.
 
-Derbin cloud map: Copyright Snowfall-The-Cat 2018. "Use this however you like, just give me a credit if possible for assembling." https://www.deviantart.com/snowfall-the-cat/art/Venus-Clouds-733625463
-
-Whirligig World heightmap files Ellipsoid.png, Prolate_Height.png, and deprecated Triaxial_Ellipsoid.png: Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)﻿﻿ Explanation for separate licensing found at the end of this readme file.
+Derbin cloud map: JAXA Venus Data. Map is copyright Snowfall-The-Cat 2018. "Use this however you like, just give me a credit if possible for assembling." https://www.deviantart.com/snowfall-the-cat/art/Venus-Clouds-733625463
 
 
 
@@ -64,7 +75,7 @@ MESBIN PHYSICAL CHARACTERISTICS
 * POLAR GRAVITY = 13.2 G
 * TRUE EQUATORIAL GRAVITY = 4.58 G
 * APPARENT EQUATORIAL GRAVITY = 1.286 G
-* ROTATION PERIOD = 1701 s (28 minutes.)﻿
+* ROTATION PERIOD = 1701 s (28 minutes.)
 
 ------------------------------------------------------------------
 
@@ -210,8 +221,7 @@ The Kaputnik Mk0 Electromechanical Program Executor and Four-Function Calculator
 OTHER KNOWN ISSUES:
 
 * Kaywell and Gememma can be seen behind the equatorial bulge of Mesbin. This is inherent stock behavior--look for the sun lens flare behind a lump on Gilly or Bop.
-* Part of the Space Center foundation is floating.
-* Mesbin has an atmosphere that goes all the way up past the equatorial bulge. It is not functional, but is required for making engines work (Isp scaling) and for Career mode contracts.
+* Mesbin has an atmosphere that goes all the way up past the equatorial bulge. It is not functional, but is required for making engines work (Isp scaling) and for Career mode contracts. As of 0.10, this can be disabled in a settings file, at the expense of ruining the first few contracts.
 * It is possible to fly through the terrain on Mesbin if you fly fast enough. This is related to its large size and the huge equatorial bulge. Less apparent in recent versions.
 * Mesbin's shape is also not accurate to what the game insists is "down" as far as the camera works. So the middle latitudes will always appear to slope much more than their effective gravity would imply.
 * The procedural craters don't match up between the color map and the height/normal map on Yawer.
@@ -328,20 +338,6 @@ Contact:
 
 * Twitter: @GregroxMun
 * Kerbal Space Program Forums: GregroxMun https://forum.kerbalspaceprogram.com/index.php?/profile/36077-gregroxmun/
-
-----------
-
-Explanation for ellipsoid heightmap license:
-
-Because someone stole my textures without permission but also because math is not art, I'm altering the license of the textures Ellipsoid.png, Prolate_Height.png, and the old deprecated texture Triaxial_Ellipsoid.png
-
-The new license for these three textures is no longer the default All Rights Reserved copyright as with the rest of the mod, it is now Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). You can use these textures freely as long as you aren't making money off of them, you attribute them to me, and you distribute these textures under the same license (the rest of your mod can be whatever license you want and are allowed to use, only the ellipsoid textures need to be licensed with CC BY-NC-SA.)
-
-Attribution should be by my username: Gregrox, or GregroxMun, and link to the WhirligigWorld forum thread or Spacedock page.
-
-Obviously if you construct ellipsoid heightmaps on your own you won't have to deal with this license.
-
-All of the above were being used without permission in Better Dres. They were also using Didd's ridge, which is not allowed. Didd's ridge is artwork, not math, and so it remains under ARR. I have been communicating with the developer, who didn't realize another developer had sourced the textures from my mod. I decided to let them use WW's ellipsoid maps, as long as they remove Didd's ridge heightmap and attribute me. And so, needing a formal way of legally attributing me, I've had to relicense these textures.
 
 ------------------------------------------------------------------
 
