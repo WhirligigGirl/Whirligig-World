@@ -218,14 +218,12 @@ The Kaputnik Mk0 Electromechanical Program Executor and Four-Function Calculator
 
 ------------------------------------------------------------------
 
-OTHER KNOWN ISSUES:
+KNOWN ISSUES:
 
 * Kaywell and Gememma can be seen behind the equatorial bulge of Mesbin. This is inherent stock behavior--look for the sun lens flare behind a lump on Gilly or Bop.
-* Mesbin has an atmosphere that goes all the way up past the equatorial bulge. It is not functional, but is required for making engines work (Isp scaling) and for Career mode contracts. As of 0.10, this can be disabled in a settings file, at the expense of ruining the first few contracts.
-* It is possible to fly through the terrain on Mesbin if you fly fast enough. This is related to its large size and the huge equatorial bulge. Less apparent in recent versions.
+* Mesbin has an atmosphere that goes all the way up past the equatorial bulge. It is not functional, but is required for making engines work (Isp scaling) and for Career mode contracts. As of 0.10.0, the extra height can be disabled in a settings file, at the expense of ruining the first few contracts.
 * Mesbin's shape is also not accurate to what the game insists is "down" as far as the camera works. So the middle latitudes will always appear to slope much more than their effective gravity would imply.
-* The procedural craters don't match up between the color map and the height/normal map on Yawer.
-* There are some issues with reparenting Kerbin using Kerbmun Homeworld swap. The orbit of the planet may appear to wander, and the Space Center scene will never be accurate. Kerbmun Space Program is also very much unfinished.
+* There are some issues with reparenting Kerbin using Kerbmun Homeworld swap. The orbit of the planet may appear to wander, and the Space Center scene will never be accurate.
 
 ------------------------------------------------------------------
 
