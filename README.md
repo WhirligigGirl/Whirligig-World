@@ -16,7 +16,6 @@ Mod Help:
 * SnailsAttack (Feedback, playtesting, Totooa Biome Map)
 * Tutur (Feedback, playtesting)
 * Niako (Biome map for Lowel)
-* KillAshley and Sigma88, who taught me how to make mods way back in 2015.
 
 External Resources:
 * SnowfallTheCat (Venus cloud map, used on Derbin)
