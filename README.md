@@ -26,16 +26,6 @@ Inspiration:
 * Chris Wayan (Creator of Lyr and Oisin, the basis for Valyr and Oshan, and very creative planetary worldbuilder.)
 * My Momma (Who named Kaywell.)
 
-------------------------------------------------------------------
------------IMPORTANT KNOWN ISSUE, READ FOR FIX--------------------
-
-The root part of vessels sometimes like to explode. This can be caused by using the teleporter in the cheats menu, and sometimes by s.o.i transitions. No known cure, as it seems to be related simply due to the fact that the space center is so far away from the "sea level."
-
-This can be treated by quicksaving and quickloading to "stabilize" the game any time you're in a safe, stable orbit. Quicksave/quickload as soon as you're in Mesbin space or Mesbin orbit. This gives you a quickload point AND stabilizes the game to make SOI changes less buggy. You should also quicksave before changing SOIs, and quicksave/quickload once you're in the new SOI. The bug also only seems to explode the root part of the vessel. If you make the root part a non-essential part instead of a command pod, you may be able to recover from an explosion.
-
-This is the only bug that comes close to game breaking. That's why I am making such a big deal of it! It is treatable, and I hope that some day there may be a fix for it. Note that this only happens when Mesbin is the homeworld. The bug does not occur when you're playing with the Kerbmun homeworld patch enabled.
-
-------------------------------------------------------------------
 ----------------IMPORTANT COMPATIBILITY NOTICE--------------------
 
 Make sure, when updating the mod, you delete the old WhirligigWorld folder before you install the new one.
