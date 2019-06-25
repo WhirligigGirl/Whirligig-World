@@ -17,6 +17,9 @@ Mod Help:
 * Tutur (Feedback, playtesting)
 * Niako (Biome map for Lowel)
 
+Loading Art:
+* /u/BradleyTheRadley, a.k.a. Pythania (Mandrake and Rutherford art, Lava Cave art. Donate at https://ko-fi.com/pythania)
+
 External Resources:
 * SnowfallTheCat (Venus cloud map, used on Derbin)
 * Carl Davidson (Tectonics.js web app, used for some heightmaps)
@@ -24,7 +27,6 @@ External Resources:
 Inspiration:
 * Hal Clement (Author of the novel *Mission of Gravity* and the essay *Whirligig World*, both classic works of hard-sci-fi worldbuilding.)
 * Chris Wayan (Creator of Lyr and Oisin, the basis for Valyr and Oshan, and very creative planetary worldbuilder.)
-* My Momma (Who named Kaywell.)
 
 ----------------IMPORTANT COMPATIBILITY NOTICE--------------------
 
@@ -40,7 +42,6 @@ Whirligig World art assets and config files: Copyright Gregory Brannon (GregroxM
 Kopernicus Expansion Continued: GNU General Public License.
 
 Derbin cloud map: JAXA Venus Data. Map is copyright Snowfall-The-Cat 2018. "Use this however you like, just give me a credit if possible for assembling." https://www.deviantart.com/snowfall-the-cat/art/Venus-Clouds-733625463
-
 
 
 ------------------------------------------------------------------
@@ -186,9 +187,10 @@ CAREER MODE NOTES:
 * Both the radial decoupler and the 1.25m decoupler are unlocked in tier 2: Basic Rocketry and Engineering 101 respectively.
 * Thermometer and Mystery Goo swap places.
 * Barometer is unlocked earlier--and rebranded as AtMoCo surpluss cavern pressure sensors from a cave-city that lost all its air due to a tragic mistake.
-* Added a scaled up Stayputnik clone called the Kaptunik, which is very heavy and lacks the internal antenna, BUT it does have full SAS autopilot (Prograde/Retrograde, Radial In/Out, Antinormal/Normal, Full Thrust/Cut Thrust, and Stage.) When you unlock the antenna you of course get all of that and manual control, but it's still really heavy. I may nerf it since I made the normal probe core appear earlier. * It will have its own model in the future.
+* Added the Kaptunik, which is very heavy and lacks the internal antenna, BUT it does have full SAS autopilot (Prograde/Retrograde, Radial In/Out, Antinormal/Normal, Full Thrust/Cut Thrust, and Stage.) When you unlock the antenna you of course get all of that and manual control, but it's still really heavy. I may nerf it since I made the normal probe core appear earlier.
 * The small ISRU parts are unlocked earlier, so you can take advantage of mining asteroids earlier on.
 * Pods and Lander Cans have been swapped around.
+* Tricoupler and Bicoupler are unlocked early on as well.
 * Making History compatible, partially compatible with other mods.
 
 ------------------------------------------------------------------
