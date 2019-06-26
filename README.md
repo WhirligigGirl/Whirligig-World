@@ -18,7 +18,8 @@ Mod Help:
 * Niako (Biome map for Lowel)
 
 Loading Art:
-* /u/BradleyTheRadley, a.k.a. Pythania (Mandrake and Rutherford art, Lava Cave art. Donate at https://ko-fi.com/pythania)
+* /u/BradleyTheRadley, a.k.a. Pythania     
+(Mandrake and Rutherford art, Lava Cave art. Donate at https://ko-fi.com/pythania)
 
 External Resources:
 * SnowfallTheCat (Venus cloud map, used on Derbin)
