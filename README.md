@@ -19,7 +19,7 @@ Mod Help:
 
 Loading Art:
 * /u/BradleyTheRadley, a.k.a. Pythania     
-(Mandrake and Rutherford art, Lava Cave art. Donate at https://ko-fi.com/pythania)
+(Mandrake and Rutherford art, Podbaston art, Lava Cave art. Donate at https://ko-fi.com/pythania)
 
 External Resources:
 * SnowfallTheCat (Venus cloud map, used on Derbin)
