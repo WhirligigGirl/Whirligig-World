@@ -319,6 +319,14 @@
 		}
 		Body
 		{
+			name = WW/Gallant
+			Values
+			{
+				InSpace = The sensor maps out the precise gravitational field shaped by the nonspherical dimensions of this object.
+			}
+		}
+		Body
+		{
 			name = WW/Gannovar
 			Values
 			{

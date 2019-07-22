@@ -363,6 +363,14 @@
 		}
 		Body
 		{
+			name = WW/Gallant
+			Values
+			{
+				SrfLanded = The surface here is a dark grey powder with a significant amount of impact glass mixed in.
+			}
+		}
+		Body
+		{
 			name = WW/Gannovar
 			Values
 			{
