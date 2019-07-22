@@ -96,7 +96,7 @@
 			name = WW/Troymin
 			Values
 			{
-				SrfLanded = Interior modelling shopws that Troymin has a tiny metallic core!
+				SrfLanded = Interior modelling shows that Troymin has a tiny metallic core!
 			}
 		}
 		Body
