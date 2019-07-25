@@ -42,6 +42,8 @@ Whirligig World art assets and config files: Copyright Gregory Brannon (GregroxM
 
 Kopernicus Expansion Continued: GNU General Public License.
 
+Sigma Loading Screens: Copyright Sigma88, used with explicit permission.
+
 Derbin cloud map: JAXA Venus Data. Map is copyright Snowfall-The-Cat 2018. "Use this however you like, just give me a credit if possible for assembling." https://www.deviantart.com/snowfall-the-cat/art/Venus-Clouds-733625463
 
 
