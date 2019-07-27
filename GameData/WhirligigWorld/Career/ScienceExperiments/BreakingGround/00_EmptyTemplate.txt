@@ -284,6 +284,13 @@
 		}
 		Body
 		{
+			name = WW/Gallant
+			Values
+			{
+			}
+		}
+		Body
+		{
 			name = WW/Gannovar
 			Values
 			{
