@@ -275,6 +275,9 @@ PlanetShine. Adds a subtle lighting effect to simulate reflected light coming fr
 Poodmund's Deep Star Map Skybox. A fantastic realistic skybox that I consider to be the canonical appearance (at least for now) of Mesbin's skies.
 * Forum Post: https://forum.kerbalspaceprogram.com/index.php?/topic/96851-15x-texturereplacer-34-28102018/&page=42&tab=comments#comment-2388097
 
+Sigma EditorView. Beautiful suffocating view of the vast night sky as seen in the VAB and SPH.
+* GitHub Repository: https://github.com/Sigma88/Sigma-EditorView/releases
+
 (ResearchBodies). Delays the discovery of certain celestial bodies during the game.
 * Forum Thread: https://forum.kerbalspaceprogram.com/index.php?/topic/139473-141-researchbodies-v197-17th-mar-2018/
 
