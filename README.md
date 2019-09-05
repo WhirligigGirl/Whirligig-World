@@ -195,15 +195,16 @@ CAREER MODE NOTES:
 * Pods and Lander Cans have been swapped around.
 * Tricoupler and Bicoupler are unlocked early on as well.
 * Making History compatible, partially compatible with other mods.
-* All transmitters now have 3 times the range.
+* All transmitter parts now have 2 times the range.
 
 ------------------------------------------------------------------
 
 SCIENCE NOTES:
 
-All bodies have at least basic biome maps.
-Most planets and moons have detailed science descriptions. The atmospheric analysis experiment will simply display the atmospheric composition used to generate the atmosphere curves.
-Science has been balanced for career and science modes for all planets, but not fully tested. If you feel you get too much or too little science, let me know.
+* All bodies have at least basic biome maps. 
+* Most planets and moons have detailed science descriptions. 
+* The atmospheric analysis experiment will simply display the atmospheric composition used to generate the atmosphere curves.
+* Science multipliers balancing is somewhat questionable at the moment. You may get too much science.
 
 ------------------------------------------------------------------
 
@@ -215,6 +216,7 @@ The Kaputnik Mk0 Electromechanical Program Executor and Four-Function Calculator
 
 KNOWN ISSUES:
 
+* Due to Kopernicus issues, ground scatters/rocks have terrible performance in many conditions. You will have to disable terrain scatters in your settings menu (and restart the game to apply the changes).
 * Kaywell and Gememma can be seen behind the equatorial bulge of Mesbin. This is inherent stock behavior--look for the sun lens flare behind a lump on Gilly or Bop.
 * Mesbin has an atmosphere that goes all the way up past the equatorial bulge. It is not functional, but is required for making engines work (Isp scaling) and for Career mode contracts. As of 0.10.0, the extra height can be disabled in a settings file, at the expense of ruining the first few contracts.
 * Mesbin's shape is also not accurate to what the game insists is "down" as far as the camera works. So the middle latitudes will always appear to slope much more than their effective gravity would imply.
@@ -224,8 +226,7 @@ KNOWN ISSUES:
 
 KERBMUN HOMEWORLD SWAP
 
-There is a settings file that allows you to relocate the KSC to the surface of Kerbmun instead of Mesbin. It is unfinished, has incorrect science definitions and descriptions, and in general is only a backup option for if you REALLY want to play the system with a more conventional homeworld. Future updates will make the transition more seamless, but for now, consider this heavily work in progress.
-To use it, follow these instructions:
+There is a settings file that allows you to relocate the KSC to the surface of Kerbmun instead of Mesbin. I don't know *why* you would want to (since Mesbin is so dang cool), but just in case you're feeling homesick but want to play with the Kaywell system, this is an option. To use it, follow these instructions:
 
 1 Open the file GameData/WhirligigWorld/Settings.cfg in a text editor.
 
@@ -243,16 +244,20 @@ To use it, follow these instructions:
 
 REQUIRED MODS (The game will not work without these)
 
-The latest version of Kopernicus.
+1) The latest version of Kopernicus.
 Make sure you install the plugin's own prerequisites, which come bundled along: ModularFlightIntegrator and ModuleManager.
 
 Forum Thread: https://forum.kerbalspaceprogram.com/index.php?/topic/181547-170-1-backports-kopernicus-kittopiatech/
 
-Kopernicus Expansions Continued (bundled with Whirligig World download)
+2) Kopernicus Expansions Continued (bundled with Whirligig World download)
 * KEX: RegionalPQSMods
 * KEX: EmissiveFX
 
 GitHub Repository: https://github.com/StollD/KopernicusExpansion-Continued
+
+3) Scientific Revolution (bundled with Whirligig World download)
+
+GitHub Repository: https://github.com/StollD/SciRev
 
 ----------------------------
 
@@ -296,7 +301,7 @@ Eve Optimized Engines. Not useful for launching from Mesbin, but there are sever
 Transfer Window Planner. There is currently no delta-v chart (and probably won't be until I finalize the system design in 1.0). This mod is a lovely alternative, with plenty of information on transfer times and delta-v.
 * Forum Thread: https://forum.kerbalspaceprogram.com/index.php?/topic/84005-14x-transfer-window-planner-v1630-march-18/
 
-Kerbal Engineer Redux. You should know what this does already! It's as useful here as ever. Displays information about crafts and celestial bodies. TWR displayed is relative to pol﻿ar gravity for Mesbin, which is about 10 times higher than the apparent equatorial gravity, so keep that in mind when building.
+Kerbal Engineer Redux. You should know what this does already! It's as useful here as ever. Displays information about crafts and celestial bodies. TWR displayed is relative to polar gravity for Mesbin, which is about 10 times higher than the apparent equatorial gravity, so keep that in mind when building.
 * Github Repository: https://github.com/jrbudda/KerbalEngineer/releases
 
 RealPlume-Stock. Changes rocket engine exhaust to look different in a vacuum compared to in the atmosphere, by showing the broader expansion of exhaust gasses.
@@ -321,7 +326,6 @@ TO-DO:
 * Complete Principia implementation, including axial tilts.
 * IntakeAir/ResourceHarvester replacement so that atmospheres can have their oxygen partial pressure untied from the atmospheric pressure for jet engines.
 * Vacuum Rocket Engine models.
-* Custom terrain material settings for all bodies. (Or more likely, a few presets to use everywhere with one or two custom settings)
 * I am also taking suggestions! Let me know what you think I should add. I probably won't be adding any new planets, but if there's some design feature you think I should change, let me know!
 * Scatterer implementation.
 
