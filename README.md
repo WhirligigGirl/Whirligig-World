@@ -195,6 +195,7 @@ CAREER MODE NOTES:
 * Pods and Lander Cans have been swapped around.
 * Tricoupler and Bicoupler are unlocked early on as well.
 * Making History compatible, partially compatible with other mods.
+* All transmitters now have 3 times the range.
 
 ------------------------------------------------------------------
 
