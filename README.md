@@ -179,23 +179,25 @@ CAREER MODE NOTES:
 * It is refreshing to play in this system if you're already used to career mode.
 * Do try this in career mode--I've had a lot of fun with this!
 * The tech tree has been reconfigured to make more sense: 
-* Aviation node merged with Aerodynamics, and therefore those parts are later in the tree.
-* The aerodynamics section is subject to change even more...
+* The tall rocket tanks for Size 1 and Size 1.5 are unlocked at the same time as the short tanks.
+* Aviation sub-tree is moved one space to the right, unlocking later and requiring more science for each node.
 * Field Science Node is now where Aviation was before--rovers before planes!
 * Science cost and node connections have been rearranged appropriately to fit.
-* Changed Survivability from basic landing parts to probe cores. It's survivable because it's robots.
+* Changed Survivability from basic landing parts to the first antennas and some probe bits and renamed it "Safety Equipment". It's survivable because now you can use robots instead of kerbals.
 * Changed Stability icon from a winglet to the flight control icon, along with a few other icon changes.
 * Landing node now contains the small parachute, the radial drogue chute, and the radial parachute, as well as all heat shields up to 2.5m.
 * Unlock monopropellant and the linear RCS thruster in Stability.
 * Both the radial decoupler and the 1.25m decoupler are unlocked in tier 2: Basic Rocketry and Engineering 101 respectively.
 * Thermometer and Mystery Goo swap places.
 * Barometer is unlocked earlier--and rebranded as AtMoCo surpluss cavern pressure sensors from a cave-city that lost all its air due to a tragic mistake.
-* Added the Kaptunik, which is very heavy and lacks the internal antenna, BUT it does have full SAS autopilot (Prograde/Retrograde, Radial In/Out, Antinormal/Normal, Full Thrust/Cut Thrust, and Stage.) When you unlock the antenna you of course get all of that and manual control, but it's still really heavy. I may nerf it since I made the normal probe core appear earlier.
+* Added the Kaptunik, which is very heavy and lacks the internal antenna, BUT it does have full SAS autopilot (Prograde/Retrograde, Radial In/Out, Antinormal/Normal, Full Thrust/Cut Thrust, and Stage.) When you unlock the antenna you of course get all of that and manual control, but it's still really heavy.
 * The small ISRU parts are unlocked earlier, so you can take advantage of mining asteroids earlier on.
 * Pods and Lander Cans have been swapped around.
 * Tricoupler and Bicoupler are unlocked early on as well.
 * Making History compatible, partially compatible with other mods.
 * All transmitter parts now have 2 times the range.
+
+These changes only affect the Mesbin homeworld option.
 
 ------------------------------------------------------------------
 
