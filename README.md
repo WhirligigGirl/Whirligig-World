@@ -28,6 +28,7 @@ External Resources:
 Inspiration:
 * Hal Clement (Author of the novel *Mission of Gravity* and the essay *Whirligig World*, both classic works of hard-sci-fi worldbuilding.)
 * Chris Wayan (Creator of Lyr and Oisin, the basis for Valyr and Oshan, and very creative planetary worldbuilder.)
+* Winchell Chung "Nyrath" (Whose Atomic Rockets web page on the Worldbuilding of Mesklin really started off my obsession with these oblate worlds. I am proud to say that section now contains info about my Whirligig World mod, found at http://www.projectrho.com/public_html/rocket/worldbuilding.php#mesbin)
 
 ----------------IMPORTANT COMPATIBILITY NOTICE--------------------
 
