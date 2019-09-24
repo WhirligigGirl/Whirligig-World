@@ -291,6 +291,9 @@ Sigma EditorView. Beautiful suffocating view of the vast night sky as seen in th
 (Community Tech Tree). Tech tree modifications are safely applied to the CTT.
 * Forum Thread: https://forum.kerbalspaceprogram.com/index.php?/topic/90530-15x-community-tech-tree-oct-16/
 
+(Extraplanetary Launchpads). I don't use or recommend this, but I do include patches to exclude MetalOre from spawning on the gas giants and some icy worlds, while making Statmun have even more MetalOre.
+* Forum Thread: https://forum.kerbalspaceprogram.com/index.php?/topic/54284-173-extraplanetary-launchpads-v661/
+
 ----------------------------
 
 OTHER USEFUL MODS (that are neither supported nor broken by WW)
