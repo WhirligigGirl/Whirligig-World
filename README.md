@@ -79,7 +79,7 @@ Kaywell: the bright white sun.
 
 -Shol: the hot Jupiter.
 
--Wolda: an asteroid.
+-2 Wolda: an asteroid.
 
 -Tyepolbynar: the temperate Jupiter.
 
@@ -93,13 +93,11 @@ Kaywell: the bright white sun.
 
 --Aerious: Rubble or rubbish?
 
--Wers: Asteroid/dwarf planet coorbital with Mesderbin.
+-1 Wers: Asteroid/dwarf planet coorbital with Mesderbin.
 
---Vizea: an asteroid orbiting Wers.
+--1 Vizea: an asteroid orbiting Wers.
 
--Mesderbin System: Mesbin and Derbin (Sigma Dimensions compatible)
-
---Mesbin: The homeworld, a heavy pancake planet with no atmosphere.
+-Mesbin: The homeworld, a heavy pancake planet with no atmosphere.
 
 --Statmun: The static moon.
 
@@ -129,7 +127,7 @@ Kaywell: the bright white sun.
 
 --Yeerbor: a large asteroid moon.
 
--Rik: rock.
+-3 Rik: rock.
 
 -Reander: Gas giant.
 
@@ -159,6 +157,8 @@ Gememma: A red dwarf star in the system's outer reaches.
 
 -Gannovar: Eccentric ice world.
 
+-G1 Gallant: Asteroid.
+
 -Mandrake/Rutherford System
 
 --Mandrake: A large ice giant planet.
@@ -171,7 +171,9 @@ Gememma: A red dwarf star in the system's outer reaches.
 
 --Jancy: Dirty Snowball
 
---Tatian: Eyeball
+--Tatian: Snowball
+
+-Pragnik: Dirty Snowball
 
 ------------------------------------------------------------------
 
