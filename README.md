@@ -335,7 +335,6 @@ TO-DO:
 * Complete Principia implementation, including axial tilts.
 * IntakeAir/ResourceHarvester replacement so that atmospheres can have their oxygen partial pressure untied from the atmospheric pressure for jet engines.
 * Vacuum Rocket Engine models.
-* I am also taking suggestions! Let me know what you think I should add. I probably won't be adding any new planets, but if there's some design feature you think I should change, let me know!
 * Scatterer implementation.
 
 ------------------------------------------------------------------
