@@ -52,11 +52,11 @@ Derbin cloud map: JAXA Venus Data. Map is copyright Snowfall-The-Cat 2018. "Use 
 
 BACKSTORY
 
-Two centuries ago, explorers from the far off planet Kerbin left their home to colonize other star systems. Preliminary transit data suggested the third planet of Kaywell's star had an oxygen atmosphere and water. It did not.
+Around 1700 years ago, explorers from the far off planet Kerbin left their home to colonize other star systems. One such ship embarked on a journey to Kerbmun, an oxygenated moon in the Kaywell star system. There was just one problem. They hadn't counted on Mesbin being much wider than expected.
 
-Unable to correct their course due to piloting error, the U.S.C. Manifest Destiny crashed into the massive, 70 Kerbin Mass planet Mesbin. Luckily, Mesbin spins. Once every twenty eight minutes it spins, and the centripetal effect pushes the equator outwards and negates some of the gravity. The 13 gees of gravity at the poles is reduced to a tad over 1.2 gee at the equator.
+Unable to correct their course due to piloting error, the U.S.C. Manifest Destiny crashed into the massive, 70 Kerbin Mass planet Mesbin. Luckily, Mesbin spins. Once every twenty eight minutes it completes a rotation, and the centripetal effect pushes the equator outwards and negates some of the gravity. The 13 gees of gravity at the poles is reduced to a tad under 1.3 gee at the equator.
 
-The payload of the ship survived, but the engines and fuel tanks were reduced to a lot of metal rubble along the surface. Unable to find somewhere else to go, they buried themselves underground and set up a stable ecosystem and environment down there. Eventually the colony was sufficiently industrialized to start looking up again.
+The payload of the ship survived, but the engines and fuel tanks were reduced to a lot of metal rubble along the surface. Unable to find somewhere else to go, they buried themselves underground and set up a stable ecosystem and environment. It took nearly two millenia, but eventually the colony was sufficiently industrialized to start looking up again.
 
 ------------------------------------------------------------------
 
@@ -75,141 +75,88 @@ MESBIN PHYSICAL CHARACTERISTICS
 
 List of objects: (Descriptions intentionally vague.)
 
-Kaywell: the bright white sun.
+Kaywell: A white main sequence star.
+* Shol: A Hot Jupiter orbiting close to Kaywell.
+* 2 Wolda: A small asteroid orbiting terrifyingly close to Shol.
+* Tyepolbynar: A warm Jupiter that gets more light than Venus.
+    * Jifgif: Small minor moon.
+    * Imterril: Big blue moon.
+    * Tannor: White moon.
+    * Etrograd: Gray, retrograde moon.
+    * Aerious: Small minor moon in a potentially chaotic orbit.
+* 1 Wers: A large asteroid, or perhaps a small dwarf planet.
+    * 1 Vizea: Wers' moon, which is so bright compared to Wers that' it's been argued Vizea was discovered first.
+* Mesbin: An oblate airless world with a rotation period of 28 minutes, gravity of 13 gees at the poles, and 1.3 at the equator.
+    * Statmun: Tiny, dense moon in a Mesbin-Stationary orbit.
+    * Thresomin: MINor moon in a THree to one RESOnance.
+    * Graymun: Gray moon.
+    * Kerbmun: Very Kerbin-like moon.
+    * Troymin: TROjan MINor moon of Kerbmun.
+    * Derbin: Superterrestrial-mass planet in a distant binary orbit with Mesbin.
+        * Derminmus: Largish minor submoon with a similar spectral type as Minmus.
+* Valyr: Superterrestrial-mass ocean world.
+    * Denna: Greenish minor moon.
+    * Plaph: Brownish minor moon.
+    * Oshan: Large, cold, white and red.
+    * Manonam: Distant cold moon.
+        * Didd: Subsatellite of Manonam.
+* Egad: A medium-sized desert world.
+    * Yeerbor: Captured asteroid in an eccentric orbit.
+* 3 Rik: Main Belt asteroid.
+* Reander: A jovian-type gas giant.
+    * Lito: Enormous earth-mass ice moon.
+    * Yalthe: Little hot moon.
+    * Yokane: Little warm moon.
+    * Dakkon: Little white moon.
+    * Totoöa: Little atmospheric moon.
+    * Mally: Trojan of Totoöa.
+    * Yawer: This moon seems to blink on and off every hour or so.
+* 1P/Fophie: A short period comet rising high above the plane of the Kaywell system.
 
--Shol: the hot Jupiter.
-
--2 Wolda: an asteroid.
-
--Tyepolbynar: the temperate Jupiter.
-
---Jifgif: Found a peanut.
-
---Imterril: Boiling world.
-
---Tannor: Shiniboi.
-
---Etrograd: numarG eb ot desu tI
-
---Aerious: Rubble or rubbish?
-
--1 Wers: Asteroid/dwarf planet coorbital with Mesderbin.
-
---1 Vizea: an asteroid orbiting Wers.
-
--Mesbin: The homeworld, a heavy pancake planet with no atmosphere.
-
---Statmun: The static moon.
-
---Thresomin: Small moon halfway to Kerbmun.
-
---Graymun: The grey moon.
-
---Kerbmun: The blue moon.
-
---Troymin: Trojan of Kerbmun.
-
---Derbin: The superkerbin companion to Mesbin.
-
---Derminmus: Is no chocolat.
-
--Valyr: Looks like we should have landed here instead.
-
---Denna: green.
-
---Plaph: potato.
-
---Oshan: Half ice world, half desert.
-
---Manonam: Small rocky world.
-
--Egad: Half desert, half... uh... ice world. In a different way.
-
---Yeerbor: a large asteroid moon.
-
--3 Rik: rock.
-
--Reander: Gas giant.
-
---Lito: Fat snowball.
-
---Yalthe: Fat Io.
-
---Yokane: A volcanic world.
-
---Dakkonme: An icy cracked world.
-
---Totooa: A tectonic icy world.
-
---Mally: Red snowball.
-
---Yawer: Mini-Mesbin.
-
--Fophie: Comet
-
-Gememma: A red dwarf star in the system's outer reaches.
-
--Ammenon: Hot. (And cool!)
-
--Lowel: A largely deserted planet.
-
---Ollym: A desert planet covered in volcanoes.
-
--Gannovar: Eccentric ice world.
-
--G1 Gallant: Asteroid.
-
--Mandrake/Rutherford System
-
---Mandrake: A large ice giant planet.
-
---Rutherford: A small ice giant planet.
-
---Lozon: Snowball
-
---Beagrid: Snowball
-
---Jancy: Dirty Snowball
-
---Tatian: Snowball
-
--Pragnik: Dirty Snowball
+Gememma: A red dwarf star.
+* Ammenon: Little planet close to Gememma.
+* Lowel: Planet known to be in Gememma's habitable zone.
+    * Ollym: The massive binary companion of Lowel.
+* Gannovar: Icy world in an eccentric orbit of Gememma.
+* G1 Gallant: Large asteroid.
+* Mandrake: A large blue giant planet.
+    * Rutherford: A small blue giant planet, binary with Mandrake.
+    * Lozon: You must face the little moon.
+    * Beagrid: A mother's little moon.
+    * Jancy: Dirty little moon.
+    * Tatian: I see a little moon.
+* Pragnik: Dwarf planet in Plutino-resonance with Mandrake & Rutherford.
 
 ------------------------------------------------------------------
 
-CAREER MODE NOTES:
+CAREER AND SCIENCE MODE NOTES:
 
 * It is refreshing to play in this system if you're already used to career mode.
-* Do try this in career mode--I've had a lot of fun with this!
+* You should definitely try this in career mode--I've had a lot of fun with this!
 * The tech tree has been reconfigured to make more sense: 
-* The tall rocket tanks for Size 1 and Size 1.5 are unlocked at the same time as the short tanks.
-* Aviation sub-tree is moved one space to the right, unlocking later and requiring more science for each node.
-* Field Science Node is now where Aviation was before--rovers before planes!
-* Science cost and node connections have been rearranged appropriately to fit.
-* Changed Survivability from basic landing parts to the first antennas and some probe bits and renamed it "Safety Equipment". It's survivable because now you can use robots instead of kerbals.
-* Changed Stability icon from a winglet to the flight control icon, along with a few other icon changes.
-* Landing node now contains the small parachute, the radial drogue chute, and the radial parachute, as well as all heat shields up to 2.5m.
-* Unlock monopropellant and the linear RCS thruster in Stability.
-* Both the radial decoupler and the 1.25m decoupler are unlocked in tier 2: Basic Rocketry and Engineering 101 respectively.
-* Thermometer and Mystery Goo swap places.
-* Barometer is unlocked earlier--and rebranded as AtMoCo surpluss cavern pressure sensors from a cave-city that lost all its air due to a tragic mistake.
-* Added the Kaptunik, which is very heavy and lacks the internal antenna, BUT it does have full SAS autopilot (Prograde/Retrograde, Radial In/Out, Antinormal/Normal, Full Thrust/Cut Thrust, and Stage.) When you unlock the antenna you of course get all of that and manual control, but it's still really heavy.
-* The small ISRU parts are unlocked earlier, so you can take advantage of mining asteroids earlier on.
-* Pods and Lander Cans have been swapped around.
-* Tricoupler and Bicoupler are unlocked early on as well.
+    * The tall rocket tanks for Size 1 and Size 1.5 are unlocked at the same time as the short tanks.
+    * Aviation sub-tree is moved one space to the right, unlocking later and requiring more science for each node.
+    * Field Science Node is now where Aviation was before--rovers before planes!
+    * Science cost and node connections have been rearranged appropriately to fit.
+    * Changed Survivability from basic landing parts to the first antennas and some probe bits and renamed it "Safety Equipment". It's survivable because now you can use robots instead of kerbals.
+    * Changed Stability icon from a winglet to the flight control icon, along with a few other icon changes.
+    * Landing node now contains the small parachute, the radial drogue chute, and the radial parachute, as well as all heat shields up to 2.5m.
+    * Unlock monopropellant and the linear RCS thruster in Stability.
+    * Both the radial decoupler and the 1.25m decoupler are unlocked in tier 2: Basic Rocketry and Engineering 101 respectively.
+    * Thermometer and Mystery Goo swap places.
+    * Barometer is unlocked earlier--and rebranded as AtMoCo surpluss cavern pressure sensors from a cave-city that lost all its air due to a tragic mistake.
+    * Added the Kaptunik, which is very heavy and lacks the internal antenna, BUT it does have full SAS autopilot (Prograde/Retrograde, Radial In/Out, Antinormal/Normal, Full Thrust/Cut Thrust, and Stage.) When you unlock the antenna you of course get all of that and manual control, but it's still really heavy.
+    * The small ISRU parts are unlocked earlier, so you can take advantage of mining asteroids earlier on.
+    * Pods and Lander Cans have been swapped around.
+    * Tricoupler and Bicoupler are unlocked early on as well.
 * Making History compatible, partially compatible with other mods.
 * All transmitter parts now have 2 times the range.
+* All bodies have biome maps, some more detailed than others.
+* Most worlds have fairly detailed science descriptions. (Though writing dozens of experiements for many biomes on 50 bodies necessarily means not every world and situation will be as fleshed out as possible)
+* The atmosphere analysis experiment will simply display the atmospheric composition that was used to generate atmosphere curves.
+* Science has been balanced such that the total amount of science available in the system is greater than the stock system, but each individual celestial body is worth less science than their stock equivalents.
 
 These changes only affect the Mesbin homeworld option.
-
-------------------------------------------------------------------
-
-SCIENCE NOTES:
-
-* All bodies have at least basic biome maps. 
-* Most planets and moons have detailed science descriptions. 
-* The atmospheric analysis experiment will simply display the atmospheric composition used to generate the atmosphere curves.
-* Science multipliers balancing is somewhat questionable at the moment. You may get too much science.
 
 ------------------------------------------------------------------
 
@@ -332,15 +279,6 @@ Atomic Age/Spacetux Recycled Parts. Porkjet's original Nuclear Lightbulb and LAN
 
 ------------------------------------------------------------------
 
-TO-DO:
-
-* Complete Principia implementation, including axial tilts.
-* IntakeAir/ResourceHarvester replacement so that atmospheres can have their oxygen partial pressure untied from the atmospheric pressure for jet engines.
-* Vacuum Rocket Engine models.
-* Scatterer implementation.
-
-------------------------------------------------------------------
-
 Contact:
 
 * Twitter: @GregroxMun
@@ -348,7 +286,7 @@ Contact:
 
 ------------------------------------------------------------------
 
-Conclusion
+Conclusion:
 
 I hope you enjoy playing in this absurd system! I have certainly enjoyed making it.
 
