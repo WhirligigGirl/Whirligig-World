@@ -290,5 +290,5 @@ Conclusion:
 
 I hope you enjoy playing in this absurd system! I have certainly enjoyed making it.
 
-I encourage you to post your mission reports on the mission reports forums and/or the KSP subreddit. For real time discussion, go to the #gregroxmun_mods channel on the Kopernicus Discord https://discord.me/kopernicus where you can find prerelease builds and development updates. I'd love to see someone do a youtube or twitch career mode series with this mod. If you make a video of this mod or see a video of this mod, let me know!
+I encourage you to post your mission reports on the mission reports forums and/or the KSP subreddit. For real time discussion, visit my [Discord server](https://discord.gg/ffzJqEs) where you can find prerelease builds and development updates. I'd love to see someone do a youtube or twitch career mode series with this mod. If you make a video of this mod or see a video of this mod, let me know!
 
