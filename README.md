@@ -76,6 +76,7 @@ MESBIN PHYSICAL CHARACTERISTICS
 List of objects: (Descriptions intentionally vague.)
 
 Kaywell: A white main sequence star.
+* Limnel: A red dwarf star in a close binary with Kaywell.
 * Shol: A Hot Jupiter orbiting close to Kaywell.
 * 2 Wolda: A small asteroid orbiting terrifyingly close to Shol.
 * Tyepolbynar: A warm Jupiter that gets more light than Venus.
