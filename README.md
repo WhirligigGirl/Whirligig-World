@@ -16,6 +16,7 @@ Mod Help:
 * SnailsAttack (Feedback, playtesting, Totooa Biome Map)
 * Tutur (Feedback, playtesting)
 * Niako (Biome map for Lowel)
+* SnailsAttack (Revamped minor moon Mally ~~because I couldn't be bothered~~)
 
 Loading Art:
 * /u/BradleyTheRadley, a.k.a. Pythania     
