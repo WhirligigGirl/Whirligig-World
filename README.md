@@ -175,6 +175,7 @@ KNOWN ISSUES:
 * Mesbin has an atmosphere that goes all the way up past the equatorial bulge. It is not functional, but is required for making engines work (Isp scaling) and for Career mode contracts. As of 0.10.0, the extra height can be disabled in a settings file, at the expense of ruining the first few contracts.
 * Mesbin's shape is also not accurate to what the game insists is "down" as far as the camera works. So the middle latitudes will always appear to slope much more than their effective gravity would imply.
 * There are some issues with reparenting Kerbin using Kerbmun Homeworld swap. The orbit of the planet may appear to wander, and the Space Center scene will never be accurate.
+* With EVE installed, the emissives on Yalthe do not show up from space unless you select Yalthe in the tracking station, open the EVE config manager, switch to CityLights Manager, and hit "apply." This seems to be a bug in EVE.
 
 ------------------------------------------------------------------
 
