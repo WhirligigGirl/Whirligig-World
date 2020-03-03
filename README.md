@@ -7,20 +7,19 @@ WhirligigWorld is a mod which moves the Kerbal Space Center to the equator of Me
 **Credits:**
 
 Lead Developer:
-* GregroxMun (Art, design, and configuration)
+* GregroxMun (Art, design, and configuration) Donate at https://www.patreon.com/Gregrox
 
 Mod Help:
 * Thomas P. and the Kopernicus Team
-* Thomas P., MrHappyFace (Kopernicus Expansion Continued)
+* Thomas P., MrHappyFace, Sigma88 (Kopernicus Expansion Continued)
 * NovaSilisko (Feedback, playtesting, the model for the Kaputnik Mk0 Electromechanical Program Executor)
-* SnailsAttack (Feedback, playtesting, Totooa Biome Map)
+* SnailsAttack (Feedback, playtesting, Totooa Biome Map, Revamped minor moon Mally ~~because I couldn't be bothered~~)
 * Tutur (Feedback, playtesting)
 * Niako (Biome map for Lowel)
-* SnailsAttack (Revamped minor moon Mally ~~because I couldn't be bothered~~)
 
 Loading Art:
 * /u/BradleyTheRadley, a.k.a. Pythania     
-(Mandrake and Rutherford art, Podbaston art, Lava Cave art. Donate at https://ko-fi.com/pythania)
+(All of the hand drawn loading screens are their fault) Donate at https://ko-fi.com/pythania)
 
 External Resources:
 * SnowfallTheCat (Venus cloud map, used on Derbin)
@@ -57,7 +56,7 @@ Around 1700 years ago, explorers from the far off planet Kerbin left their home 
 
 Unable to correct their course due to piloting error, the U.S.C. Manifest Destiny crashed into the massive, 70 Kerbin Mass planet Mesbin. Luckily, Mesbin spins. Once every twenty eight minutes it completes a rotation, and the centripetal effect pushes the equator outwards and negates some of the gravity. The 13 gees of gravity at the poles is reduced to a tad under 1.3 gee at the equator.
 
-The payload of the ship survived, but the engines and fuel tanks were reduced to a lot of metal rubble along the surface. Unable to find somewhere else to go, they buried themselves underground and set up a stable ecosystem and environment. It took nearly two millenia, but eventually the colony was sufficiently industrialized to start looking up again.
+The payload of the ship survived, but the engines and fuel tanks were reduced to a lot of metal rubble along the surface. Unable to find somewhere else to go, they buried themselves underground and set up a stable ecosystem and environment. It took nearly two millenia, a few wars, and the re-invention of the steam engine, but eventually the colony was sufficiently industrialized to start looking up again.
 
 ------------------------------------------------------------------
 
@@ -121,8 +120,8 @@ Gememma: A red dwarf star.
     * Ollym: The massive binary companion of Lowel.
 * Gannovar: Icy world in an eccentric orbit of Gememma.
 * G1 Gallant: Large asteroid.
-* Mandrake: A large blue giant planet.
-    * Rutherford: A small blue giant planet, binary with Mandrake.
+* Mandrake: A large blue ice giant planet.
+    * Rutherford: A small blue ice giant planet, binary with Mandrake.
     * Lozon: You must face the little moon.
     * Beagrid: A mother's little moon.
     * Jancy: Dirty little moon.
@@ -184,15 +183,13 @@ There is a settings file that allows you to relocate the KSC to the surface of K
 
 1 Open the file GameData/WhirligigWorld/Settings.cfg in a text editor.
 
-2 You will see a configuration node with "Homeworld = Mesbin"
+2 You will see a configuration string with "Homeworld = Mesbin"
 
 3 Change "Mesbin" to "Kerbmun"
 
-4 Remove the Career mode patches from WhirligigWorld/Career. (Tech tree changes, contract changes, and part changes.)
+4 Restart KSP, and make sure to use a new save file or at least back up your old one.
 
-5 Restart KSP, and make sure to use a new save file or at least back up your old one.
-
-6 Kerbmun is nearly identical to Kerbin, though slightly denser. Gameplay will be comparable to Alternis Kerbol or Laythe Space Program.
+5 Kerbmun is nearly identical to Kerbin, though slightly denser. Gameplay will be comparable to Alternis Kerbol or Laythe Space Program.
 
 ------------------------------------------------------------------
 
@@ -273,7 +270,7 @@ JX2 Antenna. Adds a huge antenna for sending probes to the outer system, in case
 Better Timewarp. Adds better timewarp controls including faster maximum timewarp, which is necessary when maneuvering around the outer system.
 * Forum Thread: https://forum.kerbalspaceprogram.com/index.php?/topic/154935-15-bettertimewarpcontinued-customizable-time-warp-and-lossless-physics-warp/
 
-SMURFF. Simple Module adjUstments for Real-ish Fuel-mass Fractions. It makes rocket parts lighter, so that stock parts can be used in Real Solar System instead of Realism Overhaul. However, it may be useful here given Mesbin's high escape velocity! Personally I don't use it, but it's something you may want to consider. I personally don't use it, but if you feel that WW is too hard with default mass ratios, you may want to give SMURFF a try!
+SMURFF. Simple Module adjUstments for Real-ish Fuel-mass Fractions. It makes rocket parts lighter, so that stock parts can be used in Real Solar System instead of Realism Overhaul. However, it may be useful here given Mesbin's high escape velocity! I personally don't use it, but if you feel that WW is too hard with default mass ratios, you may want to give SMURFF a try!
 * Forum Thread: https://forum.kerbalspaceprogram.com/index.php?/topic/117992-14x-smurff-simple-module-adjustments-for-real-ish-fuel-mass-fractions-180-02018-mar-21/
 
 Atomic Age/Spacetux Recycled Parts. Porkjet's original Nuclear Lightbulb and LANTR nuclear rockets are a nice, slightly more stockalike alternative to Kerbal Atomics, and the nuclear ramjet is handy for exploring some of the non-oxidized atmospheres of the planets in the system.
