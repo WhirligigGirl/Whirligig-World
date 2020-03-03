@@ -14,6 +14,7 @@ Mod Help:
 * Thomas P., MrHappyFace, Sigma88 (Kopernicus Expansion Continued)
 * NovaSilisko (Feedback, playtesting, the model for the Kaputnik Mk0 Electromechanical Program Executor)
 * SnailsAttack (Feedback, playtesting, Totooa Biome Map, Revamped minor moon Mally ~~because I couldn't be bothered~~)
+* Shamash_D (Feedback, playtesting, livestreaming)
 * Tutur (Feedback, playtesting)
 * Niako (Biome map for Lowel)
 
@@ -200,13 +201,9 @@ Make sure you install the plugin's own prerequisites, which come bundled along: 
 
 Forum Thread: https://forum.kerbalspaceprogram.com/index.php?/topic/181547-170-1-backports-kopernicus-kittopiatech/
 
-2) Kopernicus Expansions Continued (bundled with Whirligig World download)
-* KEX: RegionalPQSMods
-* KEX: EmissiveFX
-
 GitHub Repository: https://github.com/StollD/KopernicusExpansion-Continued
 
-3) Scientific Revolution (bundled with Whirligig World download)
+2) Scientific Revolution (bundled with Whirligig World download)
 
 GitHub Repository: https://github.com/StollD/SciRev
 
