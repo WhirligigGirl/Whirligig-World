@@ -4,7 +4,21 @@
 	{
 		Body
 		{
+			name = WW/Kaywell_A
+			Values
+			{
+			}
+		}
+		Body
+		{
 			name = WW/Kaywell
+			Values
+			{
+			}
+		}
+		Body
+		{
+			name = WW/Limnel
 			Values
 			{
 			}
@@ -284,7 +298,7 @@
 		}
 		Body
 		{
-			name = WW/Gallant
+			name = WW/Ollym
 			Values
 			{
 			}
@@ -298,7 +312,7 @@
 		}
 		Body
 		{
-			name = WW/Ollym
+			name = WW/Gallant
 			Values
 			{
 			}
