@@ -201,8 +201,6 @@ Make sure you install the plugin's own prerequisites, which come bundled along: 
 
 Forum Thread: https://forum.kerbalspaceprogram.com/index.php?/topic/181547-170-1-backports-kopernicus-kittopiatech/
 
-GitHub Repository: https://github.com/StollD/KopernicusExpansion-Continued
-
 2) Scientific Revolution (bundled with Whirligig World download)
 
 GitHub Repository: https://github.com/StollD/SciRev
