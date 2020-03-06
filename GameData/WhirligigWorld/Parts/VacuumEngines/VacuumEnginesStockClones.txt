@@ -1,10 +1,10 @@
-+PART[liquidEngine]:FOR[WW_VacuumEngines]
++PART[liquidEngine]:FOR[aWhirligigWorld]
 {
 	@name = ResilientLVV30
 	@title = LV-V30 "Resilient" Vacuum-Optimized Liquid Fuel Engine
 	@mass = 1.5
 	@description = A modified version of the classic LV-T30 "Reliant" rocket motor optimized for use in the vacuum of space. The name is a sort of a pun, you see. For if you misspell resilient, you get re-silent. Because you know. There's no sound in space.
-	@MODULE[ModuleEngines]
+	@MODULE[ModuleEngines*]
 	{
 		@maxThrust = 254
 		!atmosphereCurve
@@ -16,13 +16,13 @@
 		}
 	}
 }
-+PART[liquidEngine2]:FOR[WW_VacuumEngines]
++PART[liquidEngine2]:FOR[aWhirligigWorld]
 {
 	@name = VacuGimbalLVV45
 	@title = LV-V45 VacuGimbal™ Vacuum-Optimized Liquid Fuel Engine
 	@mass = 1.75
 	@description = A modified version of the classic LV-T45 "Swivel" rocket motor optimized for use in the vacuum of space.
-	@MODULE[ModuleEngines]
+	@MODULE[ModuleEngines*]
 	{
 		!atmosphereCurve
 		@maxThrust = 223
@@ -34,13 +34,13 @@
 		}
 	}
 }
-+PART[engineLargeSkipper]:FOR[WW_VacuumEngines]
++PART[engineLargeSkipper]:FOR[aWhirligigWorld]
 {
 	@name = VacuSkipperSantos
 	@title = Rockomax "Santos" RE-V5 Vacuum-Optimized Liquid Fuel Engine
 	@mass = 3.6
 	@description = A modified version of the classic Rockomax "Skipper" rocket motor optimized for use in the vacuum of space.
-	@MODULE[ModuleEngines]
+	@MODULE[ModuleEngines*]
 	{
 		!atmosphereCurve
 		@maxThrust = 687.6
@@ -52,13 +52,13 @@
 		}
 	}
 }
-+PART[liquidEngine1-2]:FOR[WW_VacuumEngines]
++PART[liquidEngine1-2]:FOR[aWhirligigWorld]
 {
 	@name = Broadside
 	@title = Rockomax "Broadside" RE-MV Vacuum-Optimized Liquid Fuel Engine
 	@mass = 7
 	@description = A modified version of the classic Rockomax "Mainsail" rocket motor optimized for use in the vacuum of space.
-	@MODULE[ModuleEngines]
+	@MODULE[ModuleEngines*]
 	{
 		!atmosphereCurve
 		@maxThrust = 1568.5
@@ -70,13 +70,13 @@
 		}
 	}
 }
-+PART[liquidEngineMini]:FOR[WW_VacuumEngines]
++PART[liquidEngineMini]:FOR[aWhirligigWorld]
 {
 	@name = Fizzle
 	@title = Rockomax "Fizzle" 48-7V Vacuum-Optimized Liquid Fuel Thruster
 	@mass = 0.18
 	@description = A modified version of the classic Rockomax "Spark" rocket motor optimized for use in the vacuum of space.
-	@MODULE[ModuleEnginesFX]
+	@MODULE[ModuleEnginesFX*]
 	{
 		!atmosphereCurve
 		@maxThrust = 20.8
@@ -88,13 +88,13 @@
 		}
 	}
 }
-+PART[radialLiquidEngine1-2]:FOR[WW_VacuumEngines]
++PART[radialLiquidEngine1-2]:FOR[aWhirligigWorld]
 {
 	@name = Trylo
 	@title = Mk-66 "Trylo" Vacuum-Optimized Liquid Fuel Engine
 	@mass = 1.05
 	@description = A modified version of the classic Rockomax "Spark" rocket motor optimized for use in the vacuum of space.
-	@MODULE[ModuleEngines]
+	@MODULE[ModuleEngines*]
 	{
 		!atmosphereCurve
 		@maxThrust = 129.4
