@@ -13,10 +13,9 @@ Mod Help:
 * Thomas P. and the Kopernicus Team
 * Thomas P., MrHappyFace, Sigma88 (Kopernicus Expansion Continued)
 * NovaSilisko (Feedback, playtesting, the model for the Kaputnik Mk0 Electromechanical Program Executor)
-* SnailsAttack (Feedback, playtesting, Totooa Biome Map, Revamped minor moon Mally ~~because I couldn't be bothered~~)
+* SnailsAttack (Feedback, playtesting, Totooa and Yeerbor Biome Map, Revamped minor moon Mally ~~because I couldn't be bothered~~)
 * Shamash_D (Feedback, playtesting, livestreaming)
 * Tutur (Feedback, playtesting)
-* Niako (Biome map for Lowel)
 
 Loading Art:
 * /u/BradleyTheRadley, a.k.a. Pythania     
@@ -146,7 +145,7 @@ CAREER AND SCIENCE MODE NOTES:
     * Unlock monopropellant and the linear RCS thruster in Stability.
     * Both the radial decoupler and the 1.25m decoupler are unlocked in tier 2: Basic Rocketry and Engineering 101 respectively.
     * Thermometer and Mystery Goo swap places.
-    * Barometer is unlocked earlier--and rebranded as AtMoCo surpluss cavern pressure sensors from a cave-city that lost all its air due to a tragic mistake.
+    * Barometer is unlocked earlier--and rebranded as AtMoCo surplus cavern pressure sensors from a cave-city that lost all its air due to a tragic mistake.
     * Added the Kaptunik, which is very heavy and lacks the internal antenna, BUT it does have full SAS autopilot (Prograde/Retrograde, Radial In/Out, Antinormal/Normal, Full Thrust/Cut Thrust, and Stage.) When you unlock the antenna you of course get all of that and manual control, but it's still really heavy.
     * The small ISRU parts are unlocked earlier, so you can take advantage of mining asteroids earlier on.
     * Pods and Lander Cans have been swapped around.
