@@ -1,4 +1,4 @@
-WhirligigWorld Planetary System: Absurd Homeworld in an Alien Solar System
+WhirligigWorld Planetary System: Absurd Homeworld in an Alien Solar System.
 
 ![https://i.imgur.com/xX4qSTM.png](https://i.imgur.com/xX4qSTM.png)
 
