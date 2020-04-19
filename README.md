@@ -12,6 +12,7 @@ Lead Developer:
 Mod Help:
 * Thomas P. and the Kopernicus Team
 * Thomas P., MrHappyFace, Sigma88 (Kopernicus Expansion Continued)
+* SeveredSolo (ModuleCommandLimitedControl Plugin)
 * NovaSilisko (Feedback, playtesting, the model for the Kaputnik Mk0 Electromechanical Program Executor)
 * SnailsAttack (Feedback, playtesting, Totooa and Yeerbor Biome Map, Revamped minor moon Mally ~~because I couldn't be bothered~~)
 * Shamash_D (Feedback, playtesting, livestreaming)
@@ -47,6 +48,22 @@ Sigma Loading Screens: Copyright Sigma88, used with explicit permission.
 
 Derbin cloud map: JAXA Venus Data. Map is copyright Snowfall-The-Cat 2018. "Use this however you like, just give me a credit if possible for assembling." https://www.deviantart.com/snowfall-the-cat/art/Venus-Clouds-733625463
 
+ModuleCommandLimitedControl: MIT License Copyright (c) 2020 severedsolo
+
+SciRev: MIT License Copyright (c) 2019 Dorian Stoll
+
+
+------------------------------------------------------------------
+
+PLUGIN SOURCE
+
+SciRev: https://github.com/StollD/SciRev
+
+Kopernicus Expansions Continued: https://github.com/StollD/KopernicusExpansion-Continued
+
+ModuleCommandLimitedControl: https://github.com/severedsolo/ModuleCommandLimitedControl
+
+Sigma-LoadingScreens: https://github.com/Sigma88/Sigma-LoadingScreens
 
 ------------------------------------------------------------------
 
