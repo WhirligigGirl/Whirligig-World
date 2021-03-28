@@ -52,6 +52,8 @@ ModuleCommandLimitedControl: MIT License Copyright (c) 2020 severedsolo
 
 SciRev: MIT License Copyright (c) 2019 Dorian Stoll
 
+Loading Art: Copyright (c) 2019 Pythania.
+
 
 ------------------------------------------------------------------
 
@@ -69,7 +71,7 @@ Sigma-LoadingScreens: https://github.com/Sigma88/Sigma-LoadingScreens
 
 BACKSTORY
 
-Around 1700 years ago, explorers from the far off planet Kerbin left their home to colonize other star systems. One such ship embarked on a journey to Kerbmun, an oxygenated moon in the Kaywell star system. There was just one problem. They hadn't counted on Mesbin being much wider than expected.
+Around 1300 years ago, explorers from the far off planet Kerbin left their home to colonize other star systems. One such ship embarked on a journey to Kerbmun, an oxygenated moon in the Kaywell star system. There was just one problem. They hadn't counted on Mesbin being much wider than expected.
 
 Unable to correct their course due to piloting error, the U.S.C. Manifest Destiny crashed into the massive, 70 Kerbin Mass planet Mesbin. Luckily, Mesbin spins. Once every twenty eight minutes it completes a rotation, and the centripetal effect pushes the equator outwards and negates some of the gravity. The 13 gees of gravity at the poles is reduced to a tad under 1.3 gee at the equator.
 
@@ -186,13 +188,11 @@ The Kaputnik Mk0 Electromechanical Program Executor and Four-Function Calculator
 
 KNOWN ISSUES:
 
-* Due to Kopernicus issues, ground scatters/rocks have terrible performance in many conditions. You will have to disable terrain scatters in your settings menu (and restart the game to apply the changes).
 * Kaywell and Gememma can be seen behind the equatorial bulge of Mesbin. This is inherent stock behavior--look for the sun lens flare behind a lump on Gilly or Bop.
 * Mesbin has an atmosphere that goes all the way up past the equatorial bulge. It is not functional, but is required for making engines work (Isp scaling) and for Career mode contracts. As of 0.10.0, the extra height can be disabled in a settings file, at the expense of ruining the first few contracts.
 * Mesbin's shape is also not accurate to what the game insists is "down" as far as the camera works. So the middle latitudes will always appear to slope much more than their effective gravity would imply.
 * There are some issues with reparenting Kerbin using Kerbmun Homeworld swap. The orbit of the planet may appear to wander, and the Space Center scene will never be accurate.
-* With EVE installed, the emissives on Yalthe do not show up from space unless you select Yalthe in the tracking station, open the EVE config manager, switch to CityLights Manager, and hit "apply." This seems to be a bug in EVE.
-
+* EVE-Redux Emissives are currently broken.
 ------------------------------------------------------------------
 
 KERBMUN HOMEWORLD SWAP
