@@ -226,8 +226,11 @@ GitHub Repository: https://github.com/StollD/SciRev
 
 STRONGLY RECOMMENDED (and supported) MODS
 
-Environmental Visual Enhancements. Plugin only, do not install any E.V.E. visual-packs/configs or "BoulderCo". Supports clouds for all atmospheric planets, most importantly on Imterril and Derbin.
-* Forum Thread: https://forum.kerbalspaceprogram.com/index.php?/topic/149733-14-13-122-environmentalvisualenhancements-140-1/
+Scatterer. Configs included. Supports scatterer atmospheres for all relevant worlds except Derbin and the Gas Giants. Supports eclipse casting from all relevant worlds orbiting Kaywell.
+* Forum Thread: https://forum.kerbalspaceprogram.com/index.php?/topic/103963-wip19x-110x-111x-scatterer-atmospheric-scattering-v00723-31122020/
+
+Environmental Visual Enhancements-Redux. Plugin only, do not install any E.V.E. visual-packs/configs or "BoulderCo". Supports clouds for all atmospheric planets, most importantly on Imterril and Derbin.
+* Forum Thread: https://forum.kerbalspaceprogram.com/index.php?/topic/196411-19-111x-eve-redux-performance-enhanced-eve-maintenance-v11121-31012021/
 
 Distant Object Enhancement. Adds dots of the correct colors to represent distant planets and moons in the sky.
 * Forum Thread: https://forum.kerbalspaceprogram.com/index.php?/topic/89214-13x-14x-distant-object-enhancement-bis-v191-8-july-2017/
@@ -254,9 +257,18 @@ Sigma EditorView. Beautiful suffocating view of the vast night sky as seen in th
 (Extraplanetary Launchpads). I don't use or recommend this, but I do include patches to exclude MetalOre from spawning on the gas giants and some icy worlds, while making Statmun have even more MetalOre.
 * Forum Thread: https://forum.kerbalspaceprogram.com/index.php?/topic/54284-173-extraplanetary-launchpads-v661/
 
+(Bluedog Design Bureau). Science instruments are supported.
+* Forum Thread: https://forum.kerbalspaceprogram.com/index.php?/topic/122020-181-1112-bluedog-design-bureau-stockalike-saturn-apollo-and-more-v172-%D0%BE%D0%B3%D1%80%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9-22mar2021/
+
 ----------------------------
 
 OTHER USEFUL MODS (that are neither supported nor broken by WW)
+
+The entire Near Future Suite, but in particular:
+Near Future Exploration. Adds multiple large antenna systems for communication with the outer system, implemented in a unique and interesting way. Also lots of cool probe bodies to play with.
+Near Future Electrical. Adds nuclear reactors to allow for power generation in the outer system. Pairs well with Near Future Propulsion.
+Near Future Launch Vehicles. Giant rockets for a giant planet.
+* Forum Thread: https://forum.kerbalspaceprogram.com/index.php?/topic/155465-111x-near-future-technologies-all111x/
 
 Cryogenic Engines. Energetic upper stages are good news for getting things out of Mesbin's deep gravity well.
 * Forum Thread: https://forum.kerbalspaceprogram.com/index.php?/topic/106089-145-cryogenic-engines-high-isp-chemical-rockets-august-7/
@@ -273,11 +285,8 @@ Transfer Window Planner. There is currently no delta-v chart (and probably won't
 Kerbal Engineer Redux. You should know what this does already! It's as useful here as ever. Displays information about crafts and celestial bodies. TWR displayed is relative to polar gravity for Mesbin, which is about 10 times higher than the apparent equatorial gravity, so keep that in mind when building.
 * Github Repository: https://github.com/jrbudda/KerbalEngineer/releases
 
-RealPlume-Stock. Changes rocket engine exhaust to look different in a vacuum compared to in the atmosphere, by showing the broader expansion of exhaust gasses.
-* Forum Thread: https://forum.kerbalspaceprogram.com/index.php?/topic/130576-14-realplume-stock-v120-30318-the-farewell-update/&
-
-JX2 Antenna. Adds a huge antenna for sending probes to the outer system, in case you don't want to put out huge relays everywhere.
-* Forum Thread: https://forum.kerbalspaceprogram.com/index.php?/topic/153125-15x-jx2antenna-v205-giant-1000g-antenna-for-big-solar-systems/
+Waterfall. New shader for KSP rocket plumes. Changes rocket engine exhaust to look different in a vacuum compared to in the atmosphere, by showing the broader expansion of exhaust gasses.
+* Forum Thread: https://forum.kerbalspaceprogram.com/index.php?/topic/196309-111x-waterfall-a-framework-for-continuous-mesh-driven-engine-effects-march-26/
 
 Better Timewarp. Adds better timewarp controls including faster maximum timewarp, which is necessary when maneuvering around the outer system.
 * Forum Thread: https://forum.kerbalspaceprogram.com/index.php?/topic/154935-15-bettertimewarpcontinued-customizable-time-warp-and-lossless-physics-warp/
