@@ -1,0 +1,23 @@
+@Scatterer_atmosphere:HAS[!WhirligigWorldSettings]:AFTER[aWhirligigWorld]
+{
+	#@WhirligigWorldSettings {}
+}
+@Scatterer_atmosphere:HAS[@WhirligigWorldSettings:HAS[#Homeworld[Kerbmun]]]:AFTER[aWhirligigWorld]
+{
+	@Atmo[Kerbin]
+	{
+		@name = Mesbin
+	}
+}
+
+@Scatterer_atmosphere:HAS[!WhirligigWorldSettings]:AFTER[aWhirligigWorld]
+{
+	#@WhirligigWorldSettings {}
+}
+@Scatterer_atmosphere:HAS[@WhirligigWorldSettings:HAS[#Homeworld[Kerbmun]]]:AFTER[aWhirligigWorld]
+{
+	@Atmo[Kerbmun]
+	{
+		@name = Kerbin
+	}
+}
