@@ -18,10 +18,6 @@ Mod Help:
 * Shamash_D (Feedback, playtesting, livestreaming)
 * Tutur (Feedback, playtesting)
 
-Loading Art:
-* /u/BradleyTheRadley, a.k.a. Pythania     
-(All of the hand drawn loading screens are their fault) Donate at https://ko-fi.com/pythania)
-
 External Resources:
 * SnowfallTheCat (Venus cloud map, used on Derbin)
 * Carl Davidson (Tectonics.js web app, used for some heightmaps)
@@ -114,6 +110,7 @@ Kaywell: A white main sequence star.
     * Troymin: TROjan MINor moon of Kerbmun.
     * Derbin: Superterrestrial-mass planet in a distant binary orbit with Mesbin.
         * Derminmus: Largish minor submoon with a similar spectral type as Minmus.
+		* Dermun: Large submoon superficially similar to Graymun.
 * Valyr: Superterrestrial-mass ocean world.
     * Denna: Greenish minor moon.
     * Plaph: Brownish minor moon.
