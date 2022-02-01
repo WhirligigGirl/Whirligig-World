@@ -15,6 +15,7 @@ Mod Help:
 * SeveredSolo (ModuleCommandLimitedControl Plugin)
 * NovaSilisko (Feedback, playtesting, the model for the Kaputnik Mk0 Electromechanical Program Executor)
 * SnailsAttack (Feedback, playtesting, Totooa and Yeerbor Biome Map, Revamped minor moon Mally ~~because I couldn't be bothered~~)
+* Exo (Revamped dwarf planet Pragnik)
 * Shamash_D (Feedback, playtesting, livestreaming)
 * Tutur (Feedback, playtesting)
 
