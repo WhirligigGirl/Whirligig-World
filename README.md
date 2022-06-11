@@ -7,7 +7,7 @@ WhirligigWorld is a mod which moves the Kerbal Space Center to the equator of Me
 **Credits:**
 
 Lead Developer:
-* GregroxMun (Art, design, and configuration) Donate at https://www.patreon.com/Gregrox
+* GregroxMun (Art, design, and configuration) Donate at https://ko-fi.com/gregrox
 
 Mod Help:
 * Thomas P. and the Kopernicus Team
