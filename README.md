@@ -37,7 +37,7 @@ Also, make sure you are using the latest version of Kopernicus. (or latest backp
 
 LICENSE
 
-Whirligig World art assets and config files: Copyright Gregory Brannon (GregroxMun) 2018. All Rights Reserved.
+Whirligig World art assets and config files: Copyright Gregoria Luna Brannon (GregroxMun) 2017-2022. All Rights Reserved.
 
 Kopernicus Expansion Continued: GNU General Public License.
 
@@ -48,8 +48,6 @@ Derbin cloud map: JAXA Venus Data. Map is copyright Snowfall-The-Cat 2018. "Use 
 ModuleCommandLimitedControl: MIT License Copyright (c) 2020 severedsolo
 
 SciRev: MIT License Copyright (c) 2019 Dorian Stoll
-
-Loading Art: Copyright (c) 2019 Pythania.
 
 
 ------------------------------------------------------------------
