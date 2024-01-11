@@ -7,7 +7,7 @@ WhirligigWorld is a mod which moves the Kerbal Space Center to the equator of Me
 **Credits:**
 
 Lead Developer:
-* GregroxMun (Art, design, and configuration) Donate at https://ko-fi.com/gregrox
+* Whirligig-Girl (Luna Rose) (Art, design, and configuration) Donate at https://ko-fi.com/gregrox
 
 Mod Help:
 * Thomas P. and the Kopernicus Team
@@ -37,7 +37,7 @@ Also, make sure you are using the latest version of Kopernicus. (or latest backp
 
 LICENSE
 
-Whirligig World art assets and config files: Copyright Gregoria Luna Brannon (GregroxMun) 2017-2022. All Rights Reserved.
+Whirligig World art assets and config files: Copyright Luna Rose Brannon (Whirligig-Girl) 2017-2024. All Rights Reserved.
 
 Kopernicus Expansion Continued: GNU General Public License.
 
