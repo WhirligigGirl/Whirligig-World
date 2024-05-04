@@ -1,0 +1,259 @@
+@Kopernicus:AFTER[zWhirligigWorld]
+{
+    @Body[Sun]
+	{
+		%ScaledVersion
+		{
+			%Light
+			{
+				%ambientLightColor = 0.02, 0.02, 0.02, 1.0
+				!sunlightShadowStrength = 0.85
+			}
+		}
+	}
+	
+	@Body:HAS[#identifier[WW/Mesbin]]
+	{
+		!removePQSMods = *
+		@Template
+		{
+			%removePQSMods = PQSLandControl,PQSMod_QuadEnhanceCoast,PQSMod_VertexHeightMap,PQSMod_VertexHeightNoiseVertHeightCurve2,PQSMod_VertexRidgedAltitudeCurve,PQSMod_VertexSimplexHeightAbsolute,PQSCity2[Mesa South],PQSCity2[North Station One]
+		}
+		@Properties
+		{
+			%biomeMap = WhirligigWorld/Biomes/Mesbin_Biomes.png
+			!Biomes{}
+			Biomes
+			{
+				Biome
+				{
+					name = NorthPolarBasin
+					displayName = North Polar Basin
+					color = RGBA(35,35,35,255)
+					value = 11
+				}
+				Biome
+				{
+					name = NorthTemperate
+					displayName = North Temperate Regions
+					color = RGBA(76,76,76,255)
+					value = 3
+				}
+				Biome
+				{
+					name = CraterEjecta
+					displayName = Crater Ejecta
+					color = RGBA(255,255,255,255)
+					value = 1
+				}
+				Biome
+				{
+					name = Equator
+					displayName = Equator
+					color = RGBA(119,117,117,255)
+					value = 1
+				}
+				Biome
+				{
+					name = GreatRift
+					displayName = Great Rift
+					color = RGBA(212,150,70,255)
+					value = 1
+				}
+				Biome
+				{
+					name = Volcanoes
+					displayName = Volcanoes
+					color = RGBA(255,0,0,255)
+				}
+				Biome
+				{
+					name = SouthTemperate
+					displayName = South Temperate Regions
+					color = RGBA(93,77,71,255)
+					value = 3
+				}
+				Biome
+				{
+					name = SouthPole
+					displayName = South Polar Region
+					color = RGBA(44,32,28,255)
+					value = 10
+				}
+			}
+		}
+		@PQS
+		{
+
+			@Mods
+			{
+				//!Subdivide{}
+				%Subdivide
+				{
+					subdivisionLevel = 36
+					subdivisionRadius = 150
+					//advancedSubdivisionLevel = 4
+					order = 999999
+					//overrideDistLimit = true
+					//customDistLimit = 1100
+				}
+				!ParallaxScatter{}
+				!ScatterDistribute{}
+				!MapDecalTangent,*
+				@FlattenArea,*
+				{
+					%enabled = false
+				}
+			}
+		}
+	}
+	@Body:HAS[#identifier[WW/Kerbmun]]
+	{
+		!removePQSMods = *
+		@Template
+		{
+			%removePQSMods = VertexSimplexHeightAbsolute,VertexHeightNoiseVertHeightCurve2,VertexRidgedAltitudeCurve,PQSLandControl,VertexHeightMap
+		}
+		@Properties
+		{
+			biomeMap = WhirligigWorld/Biomes/Kerbmun_Biomes.png
+			!Biomes{}
+			Biomes
+			{
+				Biome
+				{
+					name = IceCaps
+					displayName = Ice Caps
+					color = RGBA(165,213,194,255)
+					value = 1
+				}
+				Biome
+				{
+					name = Oceans
+					displayName = Oceans
+					color = RGBA(24,52,96,255)
+					value = 1
+				}
+				Biome
+				{
+					name = Plains
+					displayName = Plains
+					color = RGBA(115,95,65,255)
+					value = 1
+				}
+				Biome
+				{
+					name = Highlands
+					displayName = Highlands
+					color = RGBA(87,67,53,255)
+					value = 1
+				}
+				Biome
+				{
+					name = Mountains
+					displayName = Mountains
+					color = RGBA(255,255,255,255)
+					value = 1
+				}
+				Biome
+				{
+					name = SnowyMountains
+					displayName = Snowy Mountains
+					color = RGBA(219,219,219,255)
+					value = 1
+				}
+				Biome
+				{
+					name = Deserts
+					displayName = Deserts
+					color = RGBA(208,189,148,255)
+					value = 1
+				}
+				Biome
+				{
+					name = Badlands
+					displayName = Badlands
+					color = RGBA(176,98,68,255)
+					value = 1
+				}
+				
+			}
+			
+		}
+		@PQS
+		{
+			//minLevel = 3
+
+			@Mods
+			{
+				!Subdivide{}
+				!ParallaxScatter{}
+				!ScatterDistribute{}
+			}
+		}
+	}
+}
+@Parallax:NEEDS[Parallax]:LAST[Parallax]
+{
+	!Body[Moho]{}
+	!Body[Eve]{}
+	!Body[Gilly]{}
+	!Body[Kerbin]{}
+	!Body[Mun]{}
+	!Body[Minmus]{}
+	!Body[Duna]{}
+	!Body[Ike]{}
+	!Body[Dres]{}
+	!Body[Jool]{}
+	!Body[Laythe]{}
+	!Body[Vall]{}
+	!Body[Tylo]{}
+	!Body[Bop]{}
+	!Body[Pol]{}
+	!Body[Eeloo]{}
+
+	Body
+	{
+		name = Kerbin
+		emissive = false
+		Textures
+		{
+			_SurfaceTextureScale = 0.72
+
+			_SurfaceTexture = Parallax_StockTextures/Tylo/PluginData/low00.dds
+			_SurfaceTextureMid = Parallax_StockTextures/Tylo/PluginData/low00.dds
+			_SurfaceTextureHigh = Parallax_StockTextures/Tylo/PluginData/mid00.dds
+			_SteepTex = Parallax_StockTextures/Kerbin/PluginData/steep00.dds
+
+			_BumpMap = Parallax_StockTextures/Tylo/PluginData/low01.dds
+			_BumpMapMid = Parallax_StockTextures/Tylo/PluginData/low01.dds
+			_BumpMapHigh = Parallax_StockTextures/Tylo/PluginData/mid01.dds
+			_BumpMapSteep = Parallax_StockTextures/Kerbin/PluginData/steep01.dds
+
+			_DispTex = Parallax_StockTextures/Tylo/PluginData/displacement.dds
+			_InfluenceMap = Parallax_StockTextures/Tylo/PluginData/influence.dds
+
+			_displacement_scale = 0.05
+			_displacement_offset = 0
+
+			_SteepPower = 2
+			_SteepContrast = 1
+			_SteepMidpoint = 0.6
+
+			_Metallic = 1
+			_MetallicTint = 0.8,0.73,0.6
+			_Gloss = 30
+			_NormalSpecularInfluence = 1
+			_Hapke = 0.38
+			_EmissionColor = 0,0,0
+
+			_FresnelColor = 0.1,0.1,0.1
+			_FresnelPower = 3
+
+			_LowStart = 0
+			_LowEnd = 1
+			_HighStart = 3000
+			_HighEnd = 3350
+		}
+	}
+}
