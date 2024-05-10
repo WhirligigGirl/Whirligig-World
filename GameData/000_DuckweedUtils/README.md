@@ -1,5 +1,5 @@
 # VertexHeightOblateAdvanced
-VertexHeightOblateAdvanced is a custom PQS Mod intended for use by planet modders to enable easy creation of oblate bodies via a simple PQS Mod, rather than via a heightmap 
+VertexHeightOblateAdvanced is a custom PQS Mod intended for use by planet modders to enable easy creation of oblate bodies via a simple PQS Mod, rather than via a heightmap.  Additionally, when in the SOI of a body implmenting VertexHeightOblateAdvanced, two new camera modes will be added to the camera rotation after FREE mode to better support non-spherical bodies.
 
 ## Installation and Use
 * Install ALL listed dependencies, following the links below
@@ -7,6 +7,14 @@ VertexHeightOblateAdvanced is a custom PQS Mod intended for use by planet modder
 * Place the GameData folder into your KSP directory
 * Once installed, simply add a VertexHeightOblateAdvanced node to the Mods node in your body's PQS node
 * Using the following [Google Sheet](https://docs.google.com/spreadsheets/d/1QSUjAmyAIACKAFSL_C8qv5GxYc4YTB1eDBRP4TTUl5A/edit?usp=sharing), find appropriate periods for your body to get the desired oblateness, based on body surface gravity and radius.
+
+## Camera modes:
+* SURFACE NORMAL
+  * Functions like FREE camera mode, but with the vertical axis aligned perpendicular to the shape defined by the VertexHeightOblateAdvanced instance.  This eliminates the "uphill effect" that oblate bodies have.
+  * Lerps to FREE camera mode when greater than 10% of the body radius above the maximum oblate height.
+* GRAVITY NORMAL
+  * Functions like FREE camera mode, but with the vertical axis aligned with the local apparent gravity vector, taking into account the effects of rotation.  Surfaces that look flat and level are actually flat and level relative to gravity.
+  * Lerps to FREE camera mode when greater than 10% of the body radius above the maximum oblate height.
 
 ## Parameters and expected values:
 * oblateMode: overall controller for type of generation used
