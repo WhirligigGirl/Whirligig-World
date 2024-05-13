@@ -1,0 +1,64 @@
++PART[PotatoRoid]:FOR[aWhirligigWorld]
+{
+    @name = DiddmunPart
+	@MODULE[ModuleAsteroid]
+    {
+        @density = 3.4
+        %minRadiusMultiplier = 2
+        %maxRadiusMultiplier = 2
+    }
+	@MODULE[ModuleAsteroidResource]
+	{
+		highRange = 50
+		lowRange = 50
+		presenceChance = 100
+		resourceName = Ore
+	}
+}
+@Kopernicus:FOR[aWhirligigWorld]
+{
+	Asteroid
+	{
+		name = Diddmun
+		uniqueName = True
+		
+		interval = 15
+		minUntrackedLifetime = 3.402823E+38
+		maxUntrackedLifetime = 3.402823E+38
+		probability = 20
+		spawnGroupMinLimit = 1
+		spawnGroupMaxLimit = 1
+		
+		Size
+		{
+			key = 0 0.999
+			key = 1 1
+		}
+		VESSEL
+		{
+			name = Diddmun
+			PART
+			{
+				name = DiddmunPart
+			}
+		}
+		Locations
+		{
+			Around
+			{
+				Body
+				{
+					name = Diddmun
+					body = WW/Didd
+					probability = 50
+					reached = false
+					semiMajorAxis
+					{
+						minValue = 1356.5
+						maxValue = 1356.5
+					}
+				}
+			}
+		}
+	}
+}
