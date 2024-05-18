@@ -11,14 +11,19 @@ Lead Developer:
 * Whirligig-Girl (Luna Rose) (Art, design, and configuration) Donate at https://ko-fi.com/whirligig_girl
 
 Mod Help:
-* Thomas P. and the Kopernicus Team
-* Thomas P., MrHappyFace, Sigma88 (Kopernicus Expansion Continued)
+* Thomas P., R-T-B, and the Kopernicus Team
+* Thomas P., MrHappyFace, Sigma88, Vabien (Kopernicus Expansion Continued)
 * SeveredSolo (ModuleCommandLimitedControl Plugin)
+* Lt. Duckweed (VertexHeightOblateAdvanced)
+* Niako (VertexMitchellNetravaliHeightMap)
 * NovaSilisko (Feedback, playtesting, the model for the Kaputnik Mk0 Electromechanical Program Executor)
 * SnailsAttack (Feedback, playtesting, Totooa and Yeerbor Biome Map, Revamped minor moon Mally ~~because I couldn't be bothered~~)
-* Exo (Revamped dwarf planet Pragnik)
+* Wolf-Rayet (Revamped dwarf planet Pragnik, planetary rings, playtesting)
 * Shamash_D (Feedback, playtesting, livestreaming)
 * Tutur (Feedback, playtesting)
+* WarriorSabe (Sabine) (Feedback, delta-v maps, playtesting)
+* Levana Elia Rowan (Feedback, playtesting)
+* Eaurp Guz (Playtesting, MysteryGoo science definitions)
 
 External Resources:
 * SnowfallTheCat (Venus cloud map, used on Derbin)
