@@ -28,25 +28,22 @@ VertexHeightOblateAdvanced is a custom PQS Mod intended for use by planet modder
   * Values: (Low, High)
     * Low: For the given period, generate using the low oblateness branch.  Always generates a Maclaurin spheroid
     * High: For the given period, generate using the high oblateness branch. Generates either a Maclaurin spheroid or Jacobi ellipsoid based on period
-* mass: Mass of the body.  Optional if both radius and geeASL are provided.
+* mass: Mass of the body.  Optional if geeASL is provided.
   * Used with: oblateMode (PointEquipotential, UniformEquipotential, Blend)
   * Value: (greater than 0)
-* radius: Mass of the body.  Optional if both mass and geeASL are provided.
-  * Used with: oblateMode (PointEquipotential, UniformEquipotential, Blend)
-  * Value: (greater than 0)
-* geeASL: Surface gravity of the body.  Optional if both mass and radius are provided.
+* geeASL: Surface gravity of the body.  Ignored if mass is provided.
   * Used with: oblateMode (PointEquipotential, UniformEquipotential, Blend)
   * Value: (greater than 0)
 * period: Rotational period of the body. Used with PointEquipotential, UniformEquipotential, and Blend oblateMode.
   * Used with: oblateMode (PointEquipotential, UniformEquipotential, Blend)
   * Value: (greater than 0)
-* a: The primariy equatorial axis as a ratio of provided radius.
+* a: The primariy equatorial axis as a ratio of body radius.
   * Used with: oblateMode (Blend, CustomEllipsoid)
   * Value: (1 to infinity)
-* b: The secondary equatorial axis as a ratio of provided radius.
+* b: The secondary equatorial axis as a ratio of body radius.
   * Used with: oblateMode (Blend, CustomEllipsoid)
   * Value: (1 to infinity)
-* c: The polar axis as a ratio of provided radius.
+* c: The polar axis as a ratio of body radius.
   * Used with: oblateMode (Blend, CustomEllipsoid)
   * Value: (1 to infinity)
 
@@ -78,7 +75,7 @@ VertexHeightOblateAdvanced is a custom PQS Mod intended for use by planet modder
 
 ## FAQ
 * Q. I'm not a planet modder? Do I need this?
-* A. You do not need to install it manually yourself, but if you found this in you GameData, it is because a planet pack you have/had needs/needed it and so it was either included with the mod or auto installed through CKAN
+* A. You do not need to install it manually yourself, but if you found this in your GameData, it is because a planet pack you have/had needs/needed it and so it was either included with the mod or auto installed through CKAN
 
 ## Licensing
 * VertexHeightOblateAdvanced is licensed under the MIT License
