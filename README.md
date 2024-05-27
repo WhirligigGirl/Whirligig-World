@@ -75,7 +75,7 @@ BACKSTORY
 
 Around 1300 years ago, explorers from the far off planet Kerbin left their home to colonize other star systems. One such ship embarked on a journey to Kerbmun, an oxygenated moon in the Kaywell star system. There was just one problem. They hadn't counted on Mesbin being much wider than expected.
 
-Unable to correct their course due to piloting error, the U.S.C. Manifest Destiny crashed into the massive, 70 Kerbin Mass planet Mesbin. Luckily, Mesbin spins. Once every twenty eight minutes it completes a rotation, and the centripetal effect pushes the equator outwards and negates some of the gravity. The 13 gees of gravity at the poles is reduced to a tad under 1.3 gee at the equator.
+Unable to correct their course due to piloting error, the U.S.C. Magnificent Desolation crashed into the massive, 70 Kerbin Mass planet Mesbin. Luckily, Mesbin spins. Once every twenty eight minutes it completes a rotation, and the centripetal effect pushes the equator outwards and negates some of the gravity. The 13 gees of gravity at the poles is reduced to a tad under 1.3 gee at the equator.
 
 The payload of the ship survived, but the engines and fuel tanks were reduced to a lot of metal rubble along the surface. Unable to find somewhere else to go, they buried themselves underground and set up a stable ecosystem and environment. It took nearly two millenia, a few wars, and the re-invention of the steam engine, but eventually the colony was sufficiently industrialized to start looking up again.
 
