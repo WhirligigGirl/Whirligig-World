@@ -25,9 +25,10 @@ Special Thanks:
 * WarriorSabe (Sabine) (Feedback, delta-v maps, playtesting)
 * Levana Elia Rowan (Feedback, playtesting, MesbinMoons Kronometer patch)
 * Eaurp Guz (Playtesting, MysteryGoo science definitions)
+* Cloverdove (Derbin Cloud Map)
 
 External Resources:
-* SnowfallTheCat (Venus cloud map, used on Derbin)
+* SnowfallTheCat (Venus cloud map, used on old versions of Derbin)
 * Carl Davidson (Tectonics.js web app, used for some heightmaps)
 
 Inspiration:
